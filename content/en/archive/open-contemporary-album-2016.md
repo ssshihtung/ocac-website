@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 334
 alias: "open-contemporary-album-2016"
-image: "/images/k2/items/cache/open-contemporary-album-2016_XL.jpg"
+image: "/images/k2/items/cache/d6e0c71ca3722c71ddd73a242718257f_XL.jpg"
 ---
 
 *Open Contemporary Album 2016* is a creative collaboration among nine members of the Open Contemporary Art Center. The lack of a specific title for the exhibition offers an chance to reflect upon how an artist, as part of a co-run organization, constructs a relationship with other members through his or her own art practice.

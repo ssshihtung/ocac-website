@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 207
 alias: "syu-jia-jhen"
-image: "/images/k2/items/cache/syu-jia-jhen_XL.jpg"
+image: "/images/k2/items/cache/cc947675ce0ac0c98617f27425843c35_XL.jpg"
 ---
 
 Syu was trained in and has developed his practice on the field of sculpture. He expresses no particular inclination towards a specific direction or topic for investigation, but makes work in response to different readings, life experiences, or ideas derived from the unveiling of various projects.

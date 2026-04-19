@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 310
 alias: "thaitai-fever-stage-1-we-re-open-ceremony"
-image: "/images/k2/items/cache/thaitai-fever-stage-1-we-re-open-ceremony_XL.jpg"
+image: "/images/k2/items/cache/9962afd4d7801adbe96e49a2f2eab69f_XL.jpg"
 ---
 
 *TAHITI FEVER* project is hosted in OCAC Bangkok space. In August 2012, it launched the first exhibition *Stage 1: WE’re OPEN*! It was a Thai style ceremony for moving into a house, collaboratively ran by members of OCAC...

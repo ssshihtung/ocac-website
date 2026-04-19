@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 412
 alias: "an-act-of-showing"
-image: "/images/k2/items/cache/an-act-of-showing_XL.jpg"
+image: "/images/k2/items/cache/34649abc993982b197aa9a6210af69ed_XL.jpg"
 ---
 
 An Act of Showing | 展覽計劃為澳洲墨爾本維多利亞藝術學院 Maria Miranda 博士所執行有關 ARI （artist-run initiatives，藝術家自營空間）相關系列研究的子計劃之一，並由研究員 Anabelle Lacroix 擔任此展覽之策展人。在該計畫中，Maria Miranda希望跳脫過往針對ARI大多僅限於募款模式、歷史事件或共同願景等諸如此類議題的討論，她藉由指定各個 ARI 提供「一件作品」來作為展出與交流的方式，激發出一全新且不同的對話經驗。

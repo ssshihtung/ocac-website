@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 338
 alias: "parallel-crossing-chien-hsing-wu-s-solo-exhibition"
-image: "/images/k2/items/cache/parallel-crossing-chien-hsing-wu-s-solo-exhibition_XL.jpg"
+image: "/images/k2/items/cache/d81dde7813bd99a2f6a5498a2ec932ec_XL.jpg"
 ---
 
 In my childhood memories, the teleport door is a device invented by the cartoon character Doraemon—a door which allows one to travel to any place, any time in the blink of an eye.

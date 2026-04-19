@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 104
 alias: "wasinburee-supanichvoraparch"
-image: "/images/k2/items/cache/wasinburee-supanichvoraparch_XL.jpg"
+image: "/images/k2/items/cache/a42a2aa6c7440291c38ba9adc5892a56_XL.jpg"
 ---
 
 born in 1971, lives and works in Ratchaburi, Thailand. As a ceramic designer and artist, Wasinburee was trained in Germany where he studied technician school of ceramic at Berufsfachschule fuer Keramik Landshut, Germany (1991-1993), and obtained a Master of Fine Arts, majored in ceramic and photography, from Universitaet Gesamthochschule Kassel, Germany (1999). Wasinburee has exhibited his works both

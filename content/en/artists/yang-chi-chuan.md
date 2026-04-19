@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 245
 alias: "yang-chi-chuan"
-image: "/images/k2/items/cache/yang-chi-chuan_XL.jpg"
+image: "/images/k2/items/cache/8012f255a337782bffaadea968723f36_XL.jpg"
 ---
 
 Yang Chi-Chuan was born in Taipei in 1985. After graduating from the Department of Sculpture of National Taiwan University of Arts in 2007, she moved on to study at the National School of Fine Arts in France (École nationale supérieure des Beaux-Arts), where she began employing a satirical critical angle to...

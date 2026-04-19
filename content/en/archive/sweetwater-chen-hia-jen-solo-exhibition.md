@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 222
 alias: "sweetwater-chen-hia-jen-solo-exhibition"
-image: "/images/k2/items/cache/sweetwater-chen-hia-jen-solo-exhibition_XL.jpg"
+image: "/images/k2/items/cache/3b3e749011568df066956f2034087c10_XL.jpg"
 ---
 
 *Sweetwater* is Chen Chia-Jen’s public showcase in Taiwan that features works inspired by a residency program in Indonesia. During the residency, the artist focused his investigation on rivers flowing through the city as well as different ways of life within urban and rural water systems. A few video and photographic installation pieces are selected to demonstrate his observatio...

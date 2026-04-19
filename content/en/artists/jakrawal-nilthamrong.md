@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 206
 alias: "jakrawal-nilthamrong"
-image: "/images/k2/items/cache/jakrawal-nilthamrong_XL.jpg"
+image: "/images/k2/items/cache/1fc372946c0b98fb8d7f87d4c38ea83a_XL.jpg"
 ---
 
 Born 1977. Jakrawal got an MFA in Art and Technology from the Art Institute of Chicago. From 2009 until now he has been a lecturer on Film Subject at the Faculty of Journalism and Mass Communication, Thammasat University.

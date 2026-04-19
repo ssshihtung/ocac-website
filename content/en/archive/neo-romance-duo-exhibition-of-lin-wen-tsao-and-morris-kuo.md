@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 178
 alias: "neo-romance-duo-exhibition-of-lin-wen-tsao-and-morris-kuo"
-image: "/images/k2/items/cache/neo-romance-duo-exhibition-of-lin-wen-tsao-and-morris-kuo_XL.jpg"
+image: "/images/k2/items/cache/e2acd849d365015ef08ef5b696dc9e31_XL.jpg"
 ---
 
 In 18th century, the era of Romanticism, intuition and imagination have been regarded as a crucial media to the enlightenment of knowledge about the universe. At the same time, the principles of Romanticism questioned whether we could allegorize individuals in a ubiquitous world amidst natural...

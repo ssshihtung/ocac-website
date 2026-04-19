@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 113
 alias: "ground-floor"
-image: "/images/k2/items/cache/ground-floor_XL.jpg"
+image: "/images/k2/items/cache/85b62d4a27ea43297eb1ab349b6e06c6_XL.jpg"
 ---
 
 *Ground Floor* has been the first exhibition since the OCAC gallery was officially founded. As the third presentation in a series of *New Force* in Art Base, which was renamed as *Open-Contemporary Series* during the third  display, it’s organizers invited 36 artists to execute the designs for the physical exhibit space...

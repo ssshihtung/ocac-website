@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 300
 alias: "post-o-the-reverse-of-topos"
-image: "/images/k2/items/cache/post-o-the-reverse-of-topos_XL.jpg"
+image: "/images/k2/items/cache/e4c07973dbc8eb2f7380bdedc4201087_XL.jpg"
 ---
 
 The curatorial project “POST.O” was presented in multiple locations: Museum of Contemporary Art, Taipei, Garden City Publishers, Atelier New Day St., and Shitiping tribe, Hualien. There were 13 individual/group of local and international artists involved. Besides exhibition, there was also a cruise action.

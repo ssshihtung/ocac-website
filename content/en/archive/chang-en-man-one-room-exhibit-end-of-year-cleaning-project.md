@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 356
 alias: "chang-en-man-one-room-exhibit-end-of-year-cleaning-project"
-image: "/images/k2/items/cache/chang-en-man-one-room-exhibit-end-of-year-cleaning-project_XL.jpg"
+image: "/images/k2/items/cache/edab5e545cc8cf6a49faaa8a9ea6a3d0_XL.jpg"
 ---
 
 “My living space is always messy and dirty, I also dream of having clean and poetic living space. Can I throw away most things in my house in an almost paranoid and crazy condition, to frame a beautiful living space with minimal conditions? Some questions of reality comes to me, where do those mess...

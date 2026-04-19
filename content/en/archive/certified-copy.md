@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 252
 alias: "certified-copy"
-image: "/images/k2/items/cache/certified-copy_XL.jpg"
+image: "/images/k2/items/cache/5fd45095a868b007b05013834dba7a95_XL.jpg"
 ---
 
 This exhibition is an examination and presentation of the creative environment and the personal relationship of the two artists since their establishment of the “San-Tin-Hái-Bī Studio”. “San-Tin-Hái-Bī” is a phrase written in cursive script on a spring festival couplet that a former resident left, inscribed with good fortune. A deeply...

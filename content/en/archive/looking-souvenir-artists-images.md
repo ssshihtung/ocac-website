@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 389
 alias: "looking-souvenir-artists-images"
-image: "/images/k2/items/cache/looking-souvenir-artists-images_XL.jpg"
+image: "/images/k2/items/cache/bebada99aaa9847746eea59472544575_XL.jpg"
 ---
 
 It’s a kind of warmth from freshly baked bread, an invitation, an observation, a change and a test for adventuring hearts. After experiencing an information overload from artistic fulfillment mixed with the growth and exhaustion from long travels, artists have a small part in their heart that is slowly changing, building and settling down, as if fermenting in butterfly effects.

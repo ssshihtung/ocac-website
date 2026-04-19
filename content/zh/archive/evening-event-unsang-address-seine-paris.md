@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 402
 alias: "evening-event-unsang-address-seine-paris"
-image: "/images/k2/items/cache/evening-event-unsang-address-seine-paris_XL.jpg"
+image: "/images/k2/items/cache/71601b6fd7fc74a9f4eea8e6c1b43d35_XL.jpg"
 ---
 
 芬蘭藝術家 NINA - MARIA OFÖRSAGD於本月份短暫進駐於打開－當代藝術工作站，並計劃在離台前夕做一小型的作品分享會，將會播放藝術家近期於巴黎駐村時完成的新作。「Unsang Address, Seine, Paris (不復記憶的位址，塞納河，巴黎)」－是一個跨域實驗的雙頻道錄像作品，藉由同時播放兩則不同的故事，呈現一地的風景以及它的歷史層次如何作為藝術家擷取訊息和創作靈感的來源。

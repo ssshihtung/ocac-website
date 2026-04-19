@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 96
 alias: "chiu-chen-hung"
-image: "/images/k2/items/cache/chiu-chen-hung_XL.jpg"
+image: "/images/k2/items/cache/938a195f8810cb9b31c6503221891897_XL.jpg"
 ---
 
 邱承宏的創作就像是進行一場考古探險，他挖掘著生存時空之中的某些特定對象，這些對象的來源是一種遙遠彼方的永恆形象，亦或是某種漸漸消失在咫尺的事物；他透過蒐集那些不經意隱現在身邊的人／物與傳說，重新書寫這 些「匿名者」與地點曖昧的聯繫...

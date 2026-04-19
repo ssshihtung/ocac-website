@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 344
 alias: "makutaay-not-only-her-story-fan-hsiao-lan-s-solo-exhibition"
-image: "/images/k2/items/cache/makutaay-not-only-her-story-fan-hsiao-lan-s-solo-exhibition_XL.jpg"
+image: "/images/k2/items/cache/fe4bbe81600a40063594e597e00eb05b_XL.jpg"
 ---
 
 This work is based on a local life experience as a start, that is my life experience in working with many people of the tribe (Makutaay) about half a year in Gangkou village of Fengbin Township of Hualien County.

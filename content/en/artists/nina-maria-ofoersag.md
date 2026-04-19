@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 407
 alias: "nina-maria-ofoersag"
-image: "/images/k2/items/cache/nina-maria-ofoersag_XL.jpg"
+image: "/images/k2/items/cache/73c564de315ae81db9aaa50a11f02581_XL.jpg"
 ---
 
 Master of Arts 2013/ University of Helsinki/ MA Programme in Culture and Communication Bachelor of Art 2004/ Novia University of Appiled Sciences/ Media and Design/ Photography 2001/ 02 Manchester Metropolitan University/ Faculty of Art and Design/ Photography.

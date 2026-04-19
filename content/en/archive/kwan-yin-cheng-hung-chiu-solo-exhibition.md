@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 259
 alias: "kwan-yin-cheng-hung-chiu-solo-exhibition"
-image: "/images/k2/items/cache/kwan-yin-cheng-hung-chiu-solo-exhibition_XL.jpg"
+image: "/images/k2/items/cache/a07bb170c4a36161aa1f8f4859c19794_XL.jpg"
 ---
 
 The Goddess of Mercy’s features slowly emerge with each and every one of the sculptor’s strike and chisel. The fallen marble chips scattered on the ground are still cast by the breath of the goddess and morph into vivid animals in the work “Guanyin”. Collect--cleanse--remodel. First from marble, to the Bodhisattva and finally to the animal sculptures, the artist reactivates the chiseled...

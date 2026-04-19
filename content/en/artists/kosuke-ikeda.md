@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 149
 alias: "kosuke-ikeda"
-image: "/images/k2/items/cache/kosuke-ikeda_XL.jpg"
+image: "/images/k2/items/cache/7293a47c0f4cdddd46ff10bcf3d23287_XL.jpg"
 ---
 
 Kosuke Ikeda was born in 1980 in Fukuoka, Japan, and currently lives and works in Tokyo. He has graduated with an MFA Inter Media Art from Tokyo University of the Arts. Ikeda has developed his work mainly around his interest in natural phenomena...

@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 155
 alias: "baan-noorg-day-off-laboratory"
-image: "/images/k2/items/cache/baan-noorg-day-off-laboratory_XL.jpg"
+image: "/images/k2/items/cache/dd34e32172fe0202ef287e574244e1d2_XL.jpg"
 ---
 
 day OFF LABoratory 或稱 OFF LAB 是由Baan Noorg執行，以另類(後)工作室和著重分享/參與性作為其概念核心的一個另類/跨領域的藝術計畫，執行多樣而靈活的當代藝術與文化活動。OFF LAB於2014年五月發起首個計畫：游擊美術館－社區的歷史。而自今年起將接續進行第二個計畫：365日－生活靈感，向Nongpo移工的學習....

@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 9
 alias: "sutthirat-supaparinya"
-image: "/images/k2/items/cache/sutthirat-supaparinya_XL.jpg"
+image: "/images/k2/items/cache/d61d44254608dd06ccdd2ff02982d14d_XL.jpg"
 ---
 
 Sutthirat Supaparinya 是一位錄像與裝置藝術家。 目前生活與工作於清邁，畢業於清邁大學美術系與 Hochschule Fuer Grafik und Buchkunst 媒體藝術研究所(萊比鍚，德國)。2009，她擔任國際仁川女性藝術家雙年展 ( IWAB，南韓) 主要項目協同策展人，同時也是 2011-2012東南亞影展「Lifescapes」 ( 清邁 ) 的協辦人。

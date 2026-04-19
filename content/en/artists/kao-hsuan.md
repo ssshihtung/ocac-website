@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 179
 alias: "kao-hsuan"
-image: "/images/k2/items/cache/kao-hsuan_XL.jpg"
+image: "/images/k2/items/cache/6cff81ed2fd5fd02c6bfe5986e55231b_XL.jpg"
 ---
 
 Kao Hsuan was born in Taipei, Taiwan in 1990. She graduated from the National Taiwan University of Arts in 2013. Ideas for her works are often derived from experiences, senses, and perceptions in life, and are ways to examining mundane details in everyday encounters. She often utilizes methods of painting, video, sculpture, and installation to document and transform...

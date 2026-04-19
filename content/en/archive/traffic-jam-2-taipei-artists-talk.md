@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 312
 alias: "traffic-jam-2-taipei-artists-talk"
-image: "/images/k2/items/cache/traffic-jam-2-taipei-artists-talk_XL.jpg"
+image: "/images/k2/items/cache/f5ddf7bd97d01d87f4a7985398aea709_XL.jpg"
 ---
 
 We are happy to have invited the international video art group *Traffic Jam, *to talk about their artwork with us; they are in Treasure Hill Artist Village for their art residency. “Traffic” represents urban and nomad, “Jam” means gathering and interacting. Members who met from online collaboration for *Exquisite Corpse Video Project* (ECVP) have the opportunity to work face to face,,,

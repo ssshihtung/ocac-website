@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 263
 alias: "bauer-dorian"
-image: "/images/k2/items/cache/bauer-dorian_XL.jpg"
+image: "/images/k2/items/cache/28232e87509dedeadc0cd2b6a94ea3f5_XL.jpg"
 ---
 
 Born in 1988, France,  graduated from National art School of Paris(École Supérieure Nationale des Beaux Arts), Workshop Elsa Cayo specializations: video, volume and installations. 2009 - 2012 Art School (École Supérieure d'Art),  AixenProvence,France Undergraduate degree “National art degree”.

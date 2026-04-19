@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 87
 alias: "ground-floor"
-image: "/images/k2/items/cache/ground-floor_XL.jpg"
+image: "/images/k2/items/cache/85b62d4a27ea43297eb1ab349b6e06c6_XL.jpg"
 ---
 
 本展為打開－當代實體空間成立後，首次舉行的展覽，為藝術基地新形式系列之三（於第三檔後更名為打開當代系列）此展邀請了36位藝術家，針對打開當代整體的物理空間，包含牆面、地板、梁柱、廁所天花板、窗戶、及招牌等等進行思考與創作。此空間承租於板橋市一巷弄內約四十坪的店面空間，藉由空間與作品的相互關係以及不同藝術家作品區域的交疊互滲下，探討作品場域之課題。

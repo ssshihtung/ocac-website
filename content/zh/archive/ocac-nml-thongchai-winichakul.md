@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 414
 alias: "ocac-nml-thongchai-winichakul"
-image: "/images/k2/items/cache/ocac-nml-thongchai-winichakul_XL.jpg"
+image: "/images/k2/items/cache/f75f45065e491a3adc61e72a384867bb_XL.jpg"
 ---
 
 2018年3至4月，「《數位荒原》駐站繼群島資料庫計畫」再度與「打開-當代藝術工作站」藝術空間合作，推出「超隨性讀書會」系列，並選讀神一般的Thongchai Winichakul《圖繪暹羅》，挑戰從19世紀西方眼中的「暹羅」（Siam）到馬來半島上與殖民勢力對峙的「泰國」，一路演變為「民族國家」（Nation-state）的啟源商榷，同時考量持續至今的地緣政治影響。

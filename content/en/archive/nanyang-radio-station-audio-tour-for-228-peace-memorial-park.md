@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 431
 alias: "nanyang-radio-station-audio-tour-for-228-peace-memorial-park"
-image: "/images/k2/items/cache/nanyang-radio-station-audio-tour-for-228-peace-memorial-park_XL.jpg"
+image: "/images/k2/items/cache/4653e069ed7369840191e8bf38ab8dc9_XL.jpg"
 ---
 
 Audio Tour for 228 Peace Memorial Park

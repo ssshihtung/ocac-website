@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 403
 alias: "evening-event-unsang-address-seine-paris"
-image: "/images/k2/items/cache/evening-event-unsang-address-seine-paris_XL.jpg"
+image: "/images/k2/items/cache/71601b6fd7fc74a9f4eea8e6c1b43d35_XL.jpg"
 ---
 
 *Unsang Address, Seine, Paris *– is a cross-artistic experimental two-channel video work, where two different stories are played simultaneously, about a place and its historical layers as information and inspiration for the artist.During a residency stay in Paris, I found an amusing historical reference in the city part of Neuilly, where I was wandering around. In the end of 1870s, Claude Monet had rented a houseboat here...

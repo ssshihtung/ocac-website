@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 285
 alias: "grammararianism-trends-in-contemporary-videography-artists-forum"
-image: "/images/k2/items/cache/grammararianism-trends-in-contemporary-videography-artists-forum_XL.jpg"
+image: "/images/k2/items/cache/f9bbdeb62248e2fc4418a6935e64cf4c_XL.jpg"
 ---
 
 Curator Jian Li-Ting organised an exhibition titled *Grammararianism: Trends in Contemporary Videography*, with three subtopics in the exhibition: “Video as document of a performance”, “Echoes of film”, “Spatial images and objects”. This exhibition illustrates contemporary video art and its interdisciplinary...

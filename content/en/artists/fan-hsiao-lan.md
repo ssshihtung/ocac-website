@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 246
 alias: "fan-hsiao-lan"
-image: "/images/k2/items/cache/fan-hsiao-lan_XL.jpg"
+image: "/images/k2/items/cache/4047dc2f08c422a43c6430815243ead6_XL.jpg"
 ---
 
 Fan uses images and texts as the medium to explore the relationship among human being, society and nature. In the seemingly chaotic status, an artist contemplates and touches on contemporary issues based on sensibility. Because through experiences of bodily movement, desires simultaneously...

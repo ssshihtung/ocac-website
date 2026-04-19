@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 6
 alias: "sutthirat-supaparinya"
-image: "/images/k2/items/cache/sutthirat-supaparinya_XL.jpg"
+image: "/images/k2/items/cache/d61d44254608dd06ccdd2ff02982d14d_XL.jpg"
 ---
 
 lives and works in Chiang Mai, Thailand, is a video and installation artist. She obtained a BFA in painting from the Faculty of Fine Arts at Chiang Mai University and a postgraduate degree in Media Arts from Hochschule Fuer Grafik und Buchkunst in Leipzig....

@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 157
 alias: "shih-pei-chun"
-image: "/images/k2/items/cache/shih-pei-chun_XL.jpg"
+image: "/images/k2/items/cache/171fc14b49a79ea979710de5b3402b30_XL.jpg"
 ---
 
 After graduating from the Taipei National University of the Arts, Shih Pei Chun continued her studies in the Department of Architecture at National Chiao Tung University. Her work spans photography, installation, architectural proposals and planning.

@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 166
 alias: "chi-kai-yuan"
-image: "/images/k2/items/cache/chi-kai-yuan_XL.jpg"
+image: "/images/k2/items/cache/ee68a9df1200997b07be8fb0bbdb9f29_XL.jpg"
 ---
 
 Chi Kai-Yuan (b. 1983) was born in Kaohsiung, Taiwan, and received a Master of Arts at the National Changhua University of Education. Chi’s work concerns space, objects, and mass public. In daily situations, these things are the vibes to inspire creativity...

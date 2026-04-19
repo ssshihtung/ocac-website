@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 385
 alias: "dandy-angel"
-image: "/images/k2/items/cache/dandy-angel_XL.jpg"
+image: "/images/k2/items/cache/5b62d01506bd8a53b6c4928e25fa9b8a_XL.jpg"
 ---
 
 The exhibition titled with two children’s names *Dandy & Angel *is located at the Open Contemporary Art Center, spreading a summer-day religious atmosphere in this independent art space. The whole space is presented in a kind of a seemingly garden-like site, decorated with red and yellow duo-colour flags.

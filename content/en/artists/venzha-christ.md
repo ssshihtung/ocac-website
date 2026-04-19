@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 181
 alias: "venzha-christ"
-image: "/images/k2/items/cache/venzha-christ_XL.jpg"
+image: "/images/k2/items/cache/f8091000de3f026d209837e21bc2e700_XL.jpg"
 ---
 
 Based in Yogyakarta, Indonesia.

@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 112
 alias: "the-sculpture-realm-of-tomorrow"
-image: "/images/k2/items/cache/the-sculpture-realm-of-tomorrow_XL.jpg"
+image: "/images/k2/items/cache/e7c0584255fa6f2981e510285a9e9e4f_XL.jpg"
 ---
 
 Another feature topic in the exhibit is the first Taiwan Contemporary Sculpture Exhibition. It discusses the problem about the art performance and the education in Taiwan’s contemporary sculpture. Various forms of art works are demonstrated in the exhibit; they are of metals, soft sculptures, mechanical powers...

@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 390
 alias: "hsu-chia-wei-lee-jo-mei-a-double-solo-exhibition"
-image: "/images/k2/items/cache/hsu-chia-wei-lee-jo-mei-a-double-solo-exhibition_XL.jpg"
+image: "/images/k2/items/cache/e9f3064a37460e22935d3df9e26e53bb_XL.jpg"
 ---
 
 - The cities, portraits and homes, and fields and sandbanks in the images are laid out in front of us. They are from a fantasy dream / reality. - text from Ta Liu

@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 143
 alias: "moremove"
-image: "/images/k2/items/cache/moremove_XL.jpg"
+image: "/images/k2/items/cache/a9ccd7cd1c4267a50c67ac0bd7180172_XL.jpg"
 ---
 
 計畫Moremove的主要切入點在於如何產生肢體上反覆節拍與和物體產生非一般慣性的動作（混音電子舞曲是此計畫的氣氛來源），此部份將於展場內進行示範性的表演及其拍攝。由於此計劃的實踐方式並不是由一人操控，而是較傾向於合作的方式、劇團式的上演，所以表演者和拍攝者都必須有一定程度的溝通以及演練。

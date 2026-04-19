@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 183
 alias: "baan-noorg-day-off-laboratory"
-image: "/images/k2/items/cache/baan-noorg-day-off-laboratory_XL.jpg"
+image: "/images/k2/items/cache/dd34e32172fe0202ef287e574244e1d2_XL.jpg"
 ---
 
 day OFF LABoratory or OFF LAB is a Pilot project - alternative interdisciplinary art program operates by Baan Noorg, based on post-studio and participatory practice. It functions as a dynamic program to develop contemporary art and cultural production.

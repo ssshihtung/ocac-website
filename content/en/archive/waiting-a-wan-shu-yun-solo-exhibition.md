@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 360
 alias: "waiting-a-wan-shu-yun-solo-exhibition"
-image: "/images/k2/items/cache/waiting-a-wan-shu-yun-solo-exhibition_XL.jpg"
+image: "/images/k2/items/cache/6ddb2450462828abf9aabc88d6bfb7fe_XL.jpg"
 ---
 
 During the afternoon, I stayed on the couch playing new mobile app game. For a rare material that is hard to drop, I pressed attack button continuously, attacking piccolo birds around the core character. This is a super idiotic action with no meaning, I filled the whole afternoon with this. From time to time, I glance at the computer monitor, waiting for the number ‘two’ o’clock to change to three, three to four.

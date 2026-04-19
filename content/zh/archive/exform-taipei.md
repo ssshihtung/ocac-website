@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 146
 alias: "exform-taipei"
-image: "/images/k2/items/cache/exform-taipei_XL.jpg"
+image: "/images/k2/items/cache/f7abac252ae5ed68121b92ba7a669d87_XL.jpg"
 ---
 
 台北的夜晚是濃墨色的。到了夜裡從各地聚集的攤販幻化成閃爍繁雜的光群，但只要稍微遠離人潮洶湧繁華的巷道，與喧囂相比，顯得愈發漆黯的黑遍布在細密的道路上。沉默於暗濁的巷弄裡，工作整日的個人小店終於熄燈，而金屬質感的澹澹冷光依舊滿映在攤車上。日本藝術家池田剛介透過長時間的進駐於台灣，將其對台北都市與生活樣態轉化爲如詩般的影像裝置呈現。

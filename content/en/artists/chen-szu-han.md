@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 243
 alias: "chen-szu-han"
-image: "/images/k2/items/cache/chen-szu-han_XL.jpg"
+image: "/images/k2/items/cache/258ee2700b8562b5d51ebf2117179b3d_XL.jpg"
 ---
 
 Chen’s concern lies in contradictions caused by contemporary life and viewpoints of people from diverse cultures and social classes. Through observation and re-interpretation, Chen creates in the hopes of bringing social issues to people's attention, and proposing solutions to life...

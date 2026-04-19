@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 286
 alias: "south-circuit-exhibition-tour-stop-9-come-share-a-bowl-of-minced-pork-rice"
-image: "/images/k2/items/cache/south-circuit-exhibition-tour-stop-9-come-share-a-bowl-of-minced-pork-rice_XL.jpg"
+image: "/images/k2/items/cache/fff4548682445ceca36c12620f894d26_XL.jpg"
 ---
 
 *South C**ircuit *environmental touring project is centred around a participative performance piece by a ceramic artist. The small truck will host minced pork rice dish by donation, and various moving image artwork (ex. video art, documentary). The audience are invited to come and watch the video while enjoying the minced pork rice dish.

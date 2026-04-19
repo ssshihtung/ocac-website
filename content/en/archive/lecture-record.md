@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 185
 alias: "lecture-record"
-image: "/images/k2/items/cache/lecture-record_XL.jpg"
+image: "/images/k2/items/cache/f7f8c4727a011019fe43a7eaa92bf9a5_XL.jpg"
 ---
 
 Introduction to The Contemporary Lecture Room The Contemporary Lecture Room is one of the academic activities of Open-Contemporary Art Center that focuses on essential lessons concerning the visual arts. The majority of the lectures are given by OCAC members.

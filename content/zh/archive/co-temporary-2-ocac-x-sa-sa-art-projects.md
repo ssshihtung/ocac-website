@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 240
 alias: "co-temporary-2-ocac-x-sa-sa-art-projects"
-image: "/images/k2/items/cache/co-temporary-2-ocac-x-sa-sa-art-projects_XL.jpg"
+image: "/images/k2/items/cache/269b36e876e375e05083f78293992209_XL.jpg"
 ---
 
 在CO- TEMPORARY#2，我們邀請來自柬埔寨的新生代藝術家[Dara Kong](index.php/zh/artists/item/209-dara-kong)與打開成員[林文藻](index.php/zh/artists/item/158-2015-08-25-13-56-03)，[許家維](index.php/zh/artists/item/97-hsu-chia-wei)進行交換，[Dara Kong](index.php/zh/artists/item/209-dara-kong)於九月初結束駐地工作站的任務，打開成員也接著前往柬埔寨與當地藝術家進行交流、創作。

@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 324
 alias: "gaia-project-the-elegant-giant-a-solo-exhibition-by-chiu-chen-hung"
-image: "/images/k2/items/cache/gaia-project-the-elegant-giant-a-solo-exhibition-by-chiu-chen-hung_XL.jpg"
+image: "/images/k2/items/cache/144aba6c568fde2fce1a77afef2ebf5c_XL.jpg"
 ---
 
 Chiu Chen-Hung’s art-making is like an archeological adventure. Digging in specific field in the time he lives in. These specific field comes from a faraway image of eternity, or something close-by that is disappearing.

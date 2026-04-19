@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 98
 alias: "jiandyin"
-image: "/images/k2/items/cache/jiandyin_XL.jpg"
+image: "/images/k2/items/cache/048731097de322302aff7e52151c991d_XL.jpg"
 ---
 
 Ji，1969年出生於泰國Ratchaburi,畢業於Silpakorn大學雕塑系碩士班。Yin，1968年出生於泰國清邁，於英國皇家藝術學院取得金工碩士學位。jiandyin是一組跨領域合作的藝術家。他們的 作品聚焦於如何通過創造空間與形式去建構社會語境中的人際關 係。2010年，他們開始了名為「Dialogue: Seeing and Being」 的互動表演，他們在不同的公共空間邀請路人參與,繪製他們 的正面與背面肖像。

@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 234
 alias: "co-temporary-in-indonesia-ocac-x-mes56"
-image: "/images/k2/items/cache/co-temporary-in-indonesia-ocac-x-mes56_XL.jpg"
+image: "/images/k2/items/cache/e7b279be6a862d254f0e7cc4dde2874e_XL.jpg"
 ---
 
 繼兩位來自印尼藝術空間--Mes56的藝術家[Anang Saptoto](index.php/zh/artists/item/204-anang-saptoto)及 [Yudha Kutra Fehung ](index.php/zh/artists/item/213-yudha-kusuma-putera)結束於台北的駐村活動後, 打開-當代的成員羅仕東及施佩君也已於近期前往印尼日惹的Mes56空間接續執行接下來的CO-Temporary計畫。

@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 336
 alias: "teng-chao-ming-i-was-in-the-arctic"
-image: "/images/k2/items/cache/teng-chao-ming-i-was-in-the-arctic_XL.jpg"
+image: "/images/k2/items/cache/ee760d1c1474fde7f8f71a96b2452e29_XL.jpg"
 ---
 
 Open Contemporary Art Center is pleased to announce *I Was in the Arctic*, the first solo exhibition in Taiwan by New York-based artist TENG Chao-Ming. Last year TENG was selected to participate in the Arctic Circle, an annual artist residency/expedition, run by New York’s Farm Foundation for the Arts and Sciences. *I Was in the Arctic* shows two new works completed during the trip by TENG.

@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 257
 alias: "the-time-space-loops"
-image: "/images/k2/items/cache/the-time-space-loops_XL.jpg"
+image: "/images/k2/items/cache/3409e45349ec9f6b3397bfe10e87a1d0_XL.jpg"
 ---
 
 *The Time-Space Loops*. -Southeast Asia -Taiwan Contemporary Art Interchange Exhibition This exhibition is trying to reflect the needs which we are seeking for territoriality. The “loop” is a metaphor for the heterogeneous culture in the contemporary Taiwan societies.

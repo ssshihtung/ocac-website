@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 393
 alias: "technology-art"
-image: "/images/k2/items/cache/technology-art_XL.jpg"
+image: "/images/k2/items/cache/15d406f06ce12f2ac57cb5137d1afc69_XL.jpg"
 ---
 
 I - Image: technology arts often explore the forms and qualities of images combining technology based machines. To support the re-representation of images we often have to work the computer as an engineer. While constructing, the intervention of tools and new softwares development, and the complex machine languages and image formation become the subject of artmaking.

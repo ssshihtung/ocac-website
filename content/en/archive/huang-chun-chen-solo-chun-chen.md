@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 329
 alias: "huang-chun-chen-solo-chun-chen"
-image: "/images/k2/items/cache/huang-chun-chen-solo-chun-chen_XL.jpg"
+image: "/images/k2/items/cache/c75601cf4b798b9bb038a5b73c93d358_XL.jpg"
 ---
 
 In her art practice, she continue to explore art-making on site; view the site as an existing structure to the work, practice forms of senses in her physical labour. In the use of mediated (mirrored) object, sense and logic are co-constructed in the form of plastic art; thus transfer the focus to the reflective possibilities of human and site.

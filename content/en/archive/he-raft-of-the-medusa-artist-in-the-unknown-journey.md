@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 189
 alias: "he-raft-of-the-medusa-artist-in-the-unknown-journey"
-image: "/images/k2/items/cache/he-raft-of-the-medusa-artist-in-the-unknown-journey_XL.jpg"
+image: "/images/k2/items/cache/817a0b87c8b4a5b09390d4c2ae24ca96_XL.jpg"
 ---
 
 Exform-Taipei, the solo exhibition of Kosuke Ikeda, will soon be rounded off on Sunday, Oct. 4th, which implies Mr. Ikeda’s one-year project in Taiwan has come to the end of the period in Open Contemporary Art Center (OCAC). In memory of the event, a symposium is arranged to proceed on Sunday, Oct. 3rd, at 15:00, located in OCAC for artist sharing. The OCAC member, Lo Shih Tung, who has been engaged in short-term project in Burma, Japan and Malaysia over the past few years, and Rikey Tēnn, the founder of the cyber platform, No Man’s Land, are both the invited guests in this event .

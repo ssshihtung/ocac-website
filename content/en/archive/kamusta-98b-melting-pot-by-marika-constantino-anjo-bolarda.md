@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 182
 alias: "kamusta-98b-melting-pot-by-marika-constantino-anjo-bolarda"
-image: "/images/k2/items/cache/kamusta-98b-melting-pot-by-marika-constantino-anjo-bolarda_XL.jpg"
+image: "/images/k2/items/cache/0ef95987526970d668cbb7995fe36b10_XL.jpg"
 ---
 
 Marika Constantino and Anjo Bolarda are hosted by Bamboo Curtain Studio (BCS) to carry out their collaborative project called Melting Pot. Both are founding members of 98B COLLABoratory (98B) in Manila, Philippines. Interestingly, there have been a couple of occasions where..

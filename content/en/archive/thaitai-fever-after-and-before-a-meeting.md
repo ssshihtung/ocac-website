@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 278
 alias: "thaitai-fever-after-and-before-a-meeting"
-image: "/images/k2/items/cache/thaitai-fever-after-and-before-a-meeting_XL.jpg"
+image: "/images/k2/items/cache/ab98897d60eaa0d05c1862c118538407_XL.jpg"
 ---
 
 The title of the last exhibition in Bangkok from OCAC was *How to fix a leaking roof in rainy days?*. This title speaks the multilayered concept of “relationship”, while OCAC was in residence in Bangkok for six months. It also questions while an exchange is in process, how do we compile in order to present...

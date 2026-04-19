@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 235
 alias: "co-temporary-1overview-ocac-x-mes56-anang-saptoto-yudha-kusuma-putera"
-image: "/images/k2/items/cache/co-temporary-1overview-ocac-x-mes56-anang-saptoto-yudha-kusuma-putera_XL.jpg"
+image: "/images/k2/items/cache/475699d297afae315ef802312426354e_XL.jpg"
 ---
 
 From May to July 2016, OCAC invited [Anang Saptoto](index.php/en/artists/item/215-anang-saptoto) and [Yudha Kusuma Putera](index.php/en/artists/item/221-putera) to live, work and networking in Taipei for the *CO—TEMPORARY: Southeast Asia - Taiwan Forum and Exchange Program on Arts and Culture* program. Anang Saptoto and Theodora Agni were also invited to represent Ruang MES 56 and Cemeti Art House as the speakers for a discussion forum from 9 to 10 July 2016.

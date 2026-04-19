@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 188
 alias: "via-p-p-t"
-image: "/images/k2/items/cache/via-p-p-t_XL.jpg"
+image: "/images/k2/items/cache/28b8f12309e9ac4afaade20e5d04ffc2_XL.jpg"
 ---
 
 很快的「Exform-Taipei」池田剛介個展即將於10/4星期日結束，也將是日本藝術家池田為期一年台灣駐地計畫於打開－當代藝術工作站駐留的一個段落。於此，我們希望於10/3星期六的下午3點，於打開－當代舉辦藝術家的作品分享討論會。同時邀請打開－當代成員羅仕東就其近年於緬甸、日本、馬來西亞檳城進行的短期計畫型創作，以及網路媒體平台「數位荒原」創辦人鄭文琦一同對話。

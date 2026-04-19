@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 317
 alias: "systems-inside-constructions"
-image: "/images/k2/items/cache/systems-inside-constructions_XL.jpg"
+image: "/images/k2/items/cache/c987a1b31fd3f1f08322280ca0954f48_XL.jpg"
 ---
 
 In October 2006, OCAC had an exhibition titled “Systems inside Constructions” at Kaohsiung Museum of Fine Arts. In questioning body and space, the exhibition look into another form of body in contemporary living - the materiality of bodies. In order to raise awareness for the viewer the changes in our living condition (especially in being immersed in new media technology)...

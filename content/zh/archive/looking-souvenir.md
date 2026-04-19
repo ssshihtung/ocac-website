@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 366
 alias: "looking-souvenir"
-image: "/images/k2/items/cache/looking-souvenir_XL.jpg"
+image: "/images/k2/items/cache/d4ae67bb81032f6add66be1c1df07be9_XL.jpg"
 ---
 
 這是一種新鮮、像剛烤出爐麵包一般的溫熱情懷；一場邀約、一種觀察、一次懷著冒險心情的轉換與試探。藝術家在剛經歷一大場資訊量豐盛而至過滿的藝術澆灌、並混合著可稱的上長途旅行的成長與疲憊之後，總有某個微小的變化在心中滋養著，逐漸凝聚、沉澱，蝴蝶效應般的發酵。

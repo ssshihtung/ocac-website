@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 369
 alias: "thaitai-fever-stage-3-how-to-fix-a-leaky-roof-in-rainy-days"
-image: "/images/k2/items/cache/thaitai-fever-stage-3-how-to-fix-a-leaky-roof-in-rainy-days_XL.jpg"
+image: "/images/k2/items/cache/4effff5398b13b476604d4d8450bedfd_XL.jpg"
 ---
 
 2012／08／15 － 2013／02／15 是OCAC 進駐曼谷空間計畫的期程，在進駐泰國六個月之後，OCAC 打開-當代藝術工作站在這棟建築所，時間和空間中交互影響， 建立了他自身組成的交互關係和模樣。回顧這段的旅程，從開始到尾聲，之中許多拾獲與連結、有許多我們企及的，也還有更多未竟之事。然而更重要的，是去回顧這段期間中，所有的參與者。

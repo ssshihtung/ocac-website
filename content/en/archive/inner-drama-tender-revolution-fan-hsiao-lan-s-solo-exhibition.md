@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 341
 alias: "inner-drama-tender-revolution-fan-hsiao-lan-s-solo-exhibition"
-image: "/images/k2/items/cache/inner-drama-tender-revolution-fan-hsiao-lan-s-solo-exhibition_XL.jpg"
+image: "/images/k2/items/cache/23f6a067599ae98276b159b7685c0abf_XL.jpg"
 ---
 
 We feel threatened in our living environment, because the rules of the game are all against us. We strive to change but don’t know how. The reality is that the enemies are partly within us.

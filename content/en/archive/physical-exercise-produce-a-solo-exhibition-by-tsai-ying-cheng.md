@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 327
 alias: "physical-exercise-produce-a-solo-exhibition-by-tsai-ying-cheng"
-image: "/images/k2/items/cache/physical-exercise-produce-a-solo-exhibition-by-tsai-ying-cheng_XL.jpg"
+image: "/images/k2/items/cache/ea91bb19891b6c623322a2cb25533741_XL.jpg"
 ---
 
 Walking down paths in the fields, often we gather up the seeds of cobbler's pegs on our clothes naturally, the seeds spread its territory relying on others to move them. The seed of a cobbler’s pegs has a moustache-like split on...

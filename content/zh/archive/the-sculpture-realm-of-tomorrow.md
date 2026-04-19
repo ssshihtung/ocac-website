@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 88
 alias: "the-sculpture-realm-of-tomorrow"
-image: "/images/k2/items/cache/the-sculpture-realm-of-tomorrow_XL.jpg"
+image: "/images/k2/items/cache/e7c0584255fa6f2981e510285a9e9e4f_XL.jpg"
 ---
 
 本展另一主標題為台灣第一屆當代雕塑大展，意謂透過此展討論現當代雕塑在臺灣的藝術表現以及教育上的問題。在此展中，展出包含金屬、石雕、軟性雕塑、機械動力、現成物、繪畫、裝置、錄像、攝影、行為表演等等不同形式之作品，展名明日之雕塑界域透過「新犧牲主義」、「人味參滲」、「物質篩釋」、「場所變異」...

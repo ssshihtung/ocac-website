@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 167
 alias: "chou-yu-cheng"
-image: "/images/k2/items/cache/chou-yu-cheng_XL.jpg"
+image: "/images/k2/items/cache/ce7646a74c54cecf1c05442c71f02147_XL.jpg"
 ---
 
 CHOU Yu-Cheng (born 1976, Taipei) studied at the l’Ecole Nationale Supérieure des Beaux-arts de Paris, and the research program - La Seine. He specializes in the interplay between aesthetics and society. His works emphasize the working process behind visual aesthetics with a focus on producing alternative modes...

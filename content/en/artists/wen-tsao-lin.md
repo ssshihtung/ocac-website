@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 159
 alias: "wen-tsao-lin"
-image: "/images/k2/items/cache/wen-tsao-lin_XL.jpg"
+image: "/images/k2/items/cache/29766e2a37e979b18d18c428ff9c5aba_XL.jpg"
 ---
 
 Wen-Tsao Lin is a full-time artist with BFA degree from the California State University, Long Beach, USA. He emphasized in photography, painting, drawing and mixed media installations. He is currently based in Taipei, Taiwan.

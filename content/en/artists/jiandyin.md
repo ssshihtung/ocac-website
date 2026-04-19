@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 105
 alias: "jiandyin"
-image: "/images/k2/items/cache/jiandyin_XL.jpg"
+image: "/images/k2/items/cache/048731097de322302aff7e52151c991d_XL.jpg"
 ---
 
 born in Ratchaburi in 1969, obtained an MFA degree in sculpture from Silpakorn University, Thailand. Yin, born in Chiang Mai in 1968, obtained an MA degree in Metalwork from Royal College of Art, UK. Jiandyin have been interdisciplinary collaborative artists since 2002. Their works focus...

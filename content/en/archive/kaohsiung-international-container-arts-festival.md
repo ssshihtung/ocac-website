@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 368
 alias: "kaohsiung-international-container-arts-festival"
-image: "/images/k2/items/cache/kaohsiung-international-container-arts-festival_XL.jpg"
+image: "/images/k2/items/cache/3d3b7d5d68132cc424920deb43e754bb_XL.jpg"
 ---
 
 In this project, we represent a stimulated container on the surface of a real one. By taking the pictures of a model container from each side, and then applying the prints on the surface of the original one, we attempt to create a virtual situation and present our anticipation of a re-constructed container.

@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 8
 alias: "sakarin-krue-on"
-image: "/images/k2/items/cache/sakarin-krue-on_XL.jpg"
+image: "/images/k2/items/cache/184b7cb84d7b456c96a0bdfbbeaa5f14_XL.jpg"
 ---
 
 Sakarin Krue-On生於1965年1月7日，Mae Hong Sorn,泰國。現任泰國藝術大學Sanam Chandra學 院副院長/Silpakorn大學繪畫雕塑暨圖像藝術系講師。自2000年以來共舉辦過8次個展：Temple(2000) 、YellowSimple(2001)、Cloud Nine (2004)、2005Crisis (2005)、Equal Opportunity(2006)....

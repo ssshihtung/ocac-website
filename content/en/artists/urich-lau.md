@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 220
 alias: "urich-lau"
-image: "/images/k2/items/cache/urich-lau_XL.jpg"
+image: "/images/k2/items/cache/7539a1b30386b8951ffea14c91e802dc_XL.jpg"
 ---
 
 Urich Lau is a visual artist, independent curator and art educator based in Singapore (born 1975). Working in video art, photography and printmaking, he has presented works in Singapore and various countries including Australia, China, France, Germany, Hong Kong, Indonesia, Japan, Malaysia, New Zealand, Philippines, Thailand, South Korea, Serbia, Taiwan, Thailand, USA and Uzbekistan.

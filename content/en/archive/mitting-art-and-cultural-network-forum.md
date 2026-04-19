@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 304
 alias: "mitting-art-and-cultural-network-forum"
-image: "/images/k2/items/cache/mitting-art-and-cultural-network-forum_XL.jpg"
+image: "/images/k2/items/cache/79e08f32fa8a036f84441baab7b7a7ff_XL.jpg"
 ---
 
 MITT stands for a temporary art and cultural network among artist initiatives from Myanmar, Indonesia, Taiwan and Thailand is a verb to cluster collective efforts in imagining regional dialogues and exchanges. To reflect and explore our mobility and operations conditioned in the neo-liberalism global economy and our local political contexts, the meeting of MITT is an opportunity to ...

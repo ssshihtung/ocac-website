@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 224
 alias: "lin-wei-lung"
-image: "/images/k2/items/cache/lin-wei-lung_XL.jpg"
+image: "/images/k2/items/cache/7be335477876db854960134c6e137164_XL.jpg"
 ---
 
 Lin Wei-lung Grew up in Taipei, currently works there Graduated from the National Taiwan University of Arts, Fine Arts Department Taipei National University of the Arts Fine Art Research Group Studio assistant for artist Wu Tien-Chang Founder of Lane 216, East, art documentary studio, responsible for directing and producing Lin Wei-lung’s work and thinking...

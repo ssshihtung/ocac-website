@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 261
 alias: "maque-ma-cail"
-image: "/images/k2/items/cache/maque-ma-cail_XL.jpg"
+image: "/images/k2/items/cache/ef8bd3de49a270d49d40baf602fbfad5_XL.jpg"
 ---
 
 An Intuition, special taste for the unexpected, will take shape through a game with the situation through performances, readings or other interventions. The main goal of this process is to immerse ourselves in uncertain positions opening a new way of thinking: the forms’ analysis built by encounters, exchanges and hospitality in that case. My project comes from a perception.

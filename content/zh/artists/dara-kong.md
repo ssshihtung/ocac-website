@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 209
 alias: "dara-kong"
-image: "/images/k2/items/cache/dara-kong_XL.jpg"
+image: "/images/k2/items/cache/e9ad9fee9d0bc73e0b2c055eb0b268ce_XL.jpg"
 ---
 
 Dara Kong，1990 年生於柬埔寨波蘿勉省( Prey Veng )。他的創作包含各類型的創作媒材，近期則主要從事繪畫創作。他在 Sa Sa Art Projects 擔任技術指導員，同時也在那裡修習繪畫的技巧。Dara 曾在許多不同的地方駐村創作，包含越南胡志明市的 Sàn Art Laboratory(2015-16...

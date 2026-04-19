@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 250
 alias: "she-wen-ying"
-image: "/images/k2/items/cache/she-wen-ying_XL.jpg"
+image: "/images/k2/items/cache/e303e2027514497aaa0603a129a3eb42_XL.jpg"
 ---
 
 Born in 1989, She Wen-Ying currently lives and creates artworks in Taipei. Her past work mostly came from observation on people and objects in everyday life, the relationship and the distance between people and space...etc. She was curious about the distinguishing linguistic context which contained privacy...

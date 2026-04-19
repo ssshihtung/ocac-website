@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 90
 alias: "non-nationalisme"
-image: "/images/k2/items/cache/non-nationalisme_XL.jpg"
+image: "/images/k2/items/cache/d722f2a14a84b7ad8053262f61a6106b_XL.jpg"
 ---
 
 藝術家在學院系統之下所受的藝術技藝訓練是否會構成某種在作品操作上的形式邏輯呢?非族主裔所探討的不是國家民族概念下的族裔問題，而是以藝術教育為起點，思考在不同背景下的生活經驗，如何影響著創作上的美感、慣性或是態度等，另一方面，藉由這樣的作品形式探查，也重新思考在西方藝術脈絡的教育系統外，所可能延伸與開啟的藝術批判。

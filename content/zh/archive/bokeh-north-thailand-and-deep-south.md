@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 423
 alias: "bokeh-north-thailand-and-deep-south"
-image: "/images/k2/items/cache/bokeh-north-thailand-and-deep-south_XL.jpg"
+image: "/images/k2/items/cache/85217272b4e7187cce0880e98f060661_XL.jpg"
 ---
 
 【 焦外：清邁與泰國深南的藝術現況 】

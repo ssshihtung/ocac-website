@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 216
 alias: "theodora-agni"
-image: "/images/k2/items/cache/theodora-agni_XL.jpg"
+image: "/images/k2/items/cache/ca332973fc363da77aefed58534dcd5c_XL.jpg"
 ---
 
 Theodora Agni (b. 1983) graduated from The Social Sciences and Political Sciences Faculty, majoring in Communication Studies at the Gadjah Mada University, Yogyakarta, Indonesia. The similar practices and theoretical reflections between contemporary art and communication studies encouraged her to work in the art management field. She has been developing her experience...

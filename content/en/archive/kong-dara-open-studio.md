@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 280
 alias: "kong-dara-open-studio"
-image: "/images/k2/items/cache/kong-dara-open-studio_XL.jpg"
+image: "/images/k2/items/cache/8c4e7ddecfb739ef5c33c55621b27630_XL.jpg"
 ---
 
 Kong Dara’s residency project at OCAC is centred around the themes of queer lives. He continues to develop and create a personalised Taipei City map, structuring around his own experience as a gay person from Cambodia. He sketch out his complex experiences, emotions, and memories through pen, in order to find his personal and individual art perspective.

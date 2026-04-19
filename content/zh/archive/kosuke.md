@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 141
 alias: "kosuke"
-image: "/images/k2/items/cache/kosuke_XL.jpg"
+image: "/images/k2/items/cache/b8cc41f2c23fcd5970f74c3c49efafec_XL.jpg"
 ---
 
 kosuke

@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 284
 alias: "rajan-klomklieng"
-image: "/images/k2/items/cache/rajan-klomklieng_XL.jpg"
+image: "/images/k2/items/cache/d632334130a2b9d194362b7d857b88bf_XL.jpg"
 ---
 
 Rajan Klomklieng currently lives and works in Ratchaburi, Thailand. Having a western Thailand background of Jombueng region, his work crosses many mediums, including sound art, performance art, street art, text and video work. He has been invited to “*The Rendezvous*”, South East Asia urban art event in...

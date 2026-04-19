@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 205
 alias: "lin-chiwei"
-image: "/images/k2/items/cache/lin-chiwei_XL.jpg"
+image: "/images/k2/items/cache/39ab3bf46ced9d4856c25205fb92582a_XL.jpg"
 ---
 
 Lin Chiwei has received training in literature, anthropology and fine art. He creates sound works with the participation of the audience. Lin was the co-founding member of Zero and Sound Liberation Organization (Z.S.L.O.), the first noise group in Taiwan.

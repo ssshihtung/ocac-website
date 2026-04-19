@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 242
 alias: "co-temporary-2-overview-ocac-x-sa-sa-art-projects"
-image: "/images/k2/items/cache/co-temporary-2-overview-ocac-x-sa-sa-art-projects_XL.jpg"
+image: "/images/k2/items/cache/fedea746cd0ecb257a1249d3a2a80bb1_XL.jpg"
 ---
 
 *CO – TEMPORARY* is regarded as temporary co-creation by the process of discussion with OCAC members, art project cooperation, Artist-in Residence exchange/transit, workshops and etc. *CO – TEMPORARY #2*  [Lin Wen-Tsao ](index.php/en/artists/item/159-wen-tsao-lin)and [Hsu Chia-Wei](index.php/en/artists/item/106-hsu-chia-wei) to do a residency at Sa Sa Art Projects now.

@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 401
 alias: "o-school"
-image: "/images/k2/items/cache/o-school_XL.jpg"
+image: "/images/k2/items/cache/bd9435f235cb4005045f2e6c43e9346a_XL.jpg"
 ---
 
 O － School 是打開－當代本年度的一個小型共學平台，這個平台不是以單向的教育性質為出發點，而是透過一種技藝、知識等的交換學習為概念，讓藝術創作者各自提供自己的所學所長來進行的小型課程。如已進行的項目包含：「final cut pro基礎剪輯＜＞雕刻基礎」、「lightroom基礎操作＜＞塑造實作」另外也進行了聲音編輯基礎以及即將進行的餅乾蛋糕烘焙、九零後台北地下樂團介紹、illustrator簡介、裁縫、瑜伽...等等，由參與者提出其所長，互相學習成長。

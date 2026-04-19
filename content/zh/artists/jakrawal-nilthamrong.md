@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 161
 alias: "jakrawal-nilthamrong"
-image: "/images/k2/items/cache/jakrawal-nilthamrong_XL.jpg"
+image: "/images/k2/items/cache/1fc372946c0b98fb8d7f87d4c38ea83a_XL.jpg"
 ---
 
 生於1977，畢業於Silpakorn大學版畫系，並取得芝加哥藝術學院科技藝術碩士。目前任教於泰國國立法政大學新聞與大眾傳播學系電影相關課程。2007年，Jakrawal獲選為阿姆斯特丹 Rijksakademie van Beeldende Kunsten兩年駐村藝術家。

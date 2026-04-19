@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 194
 alias: "two-solo-exhibitions-by-noa-yekutieli-transitions-particles"
-image: "/images/k2/items/cache/two-solo-exhibitions-by-noa-yekutieli-transitions-particles_XL.jpg"
+image: "/images/k2/items/cache/086218b2ac4369b7cefd2acbee0be8b1_XL.jpg"
 ---
 
 'Transitions’ and ‘Particles’ are part of Noa Yekutieli’s ongoing project *Mountains of Narratives*.In these exhibitions, Yekutieli creates connections between different memories and subjects by 'rewriting' the history in her own way while questioning the way narratives are built.“I think that our beliefs,

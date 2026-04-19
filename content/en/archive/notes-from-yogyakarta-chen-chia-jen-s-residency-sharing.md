@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 290
 alias: "notes-from-yogyakarta-chen-chia-jen-s-residency-sharing"
-image: "/images/k2/items/cache/notes-from-yogyakarta-chen-chia-jen-s-residency-sharing_XL.jpg"
+image: "/images/k2/items/cache/6c16f95e5837b7a15cc22a32eb72fad8_XL.jpg"
 ---
 
 In the evening, a small vender serving with a small dim light sitting outside of tourist area - I find myself eating hot chicken fried rice sitting on the sidewalk. I cannot describe the visual presentation of the food, but the taste is quite good. Often I see chickens ‘wandering’ on the road. Just in front of the lobby, three white feathered chicken passing...

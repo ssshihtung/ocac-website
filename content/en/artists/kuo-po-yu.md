@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 251
 alias: "kuo-po-yu"
-image: "/images/k2/items/cache/kuo-po-yu_XL.jpg"
+image: "/images/k2/items/cache/8ee107fb8e11fa27c5eb0c84c03d7dff_XL.jpg"
 ---
 
 Kuo Po-Yu was born in1989, and currently lives and works in Taipei, Taiwan. His practice often addresses the unapproachable archive with its spooky characteristic and uses the archival sculptuality and objects to develop new ideas. By practicing on the

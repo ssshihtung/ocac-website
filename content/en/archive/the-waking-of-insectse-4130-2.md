@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 352
 alias: "the-waking-of-insectse-4130-2"
-image: "/images/k2/items/cache/the-waking-of-insectse-4130-2_XL.jpg"
+image: "/images/k2/items/cache/3abb66d58aa91d2b7b16f08ee38a95c0_XL.jpg"
 ---
 
 *The Waking of Insects* is not an event or a exhibition, but a continuous conversational project by OCAC in 2010. It will be published on the web as image (vimeo, youtube), and sound (podcast) content.

@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 232
 alias: "dara-kong-open-studio"
-image: "/images/k2/items/cache/dara-kong-open-studio_XL.jpg"
+image: "/images/k2/items/cache/e1e1ad60f07c4aa3ccbcb2973e9d7007_XL.jpg"
 ---
 
 在即將結束台北的駐村活動之際，來自柬埔寨的藝術家[Dara Kong](index.php/zh/artists/item/209-dara-kong)將於本週五9/2舉行開放工作日活動，傍晚時分藝術家也會準備自製的柬式風味咖哩邀請大家一同來享用喔。Dara Kong在台北打開-當代藝術工作站駐村期間的創作以同志生活為主題，持續發展並聚焦在創造一個屬於個人化的台北地圖，其架構則是依據他自身作為一位柬埔寨同志的生活體驗。

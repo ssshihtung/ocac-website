@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 163
 alias: "suraporn-lertwongpaitoon"
-image: "/images/k2/items/cache/suraporn-lertwongpaitoon_XL.jpg"
+image: "/images/k2/items/cache/d382bd8ae87d9139df6458192532657c_XL.jpg"
 ---
 
 Jekky生活和工作於曼谷。畢業於Silpakorn大學繪畫雕塑暨圖像藝術系。曾於知名廣告公司J. Walter Thomson創意部門工作。他的作品獲獎數次，也在多所大學擔任客座講師，任教廣告與創意相關課程。2012年，他於泰國Ratchaburi的Tao Hong Tai/dkunst畫廊舉辦首次個展「Stuff like That」，也參與2012「理解的...

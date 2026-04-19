@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 217
 alias: "dara-kong"
-image: "/images/k2/items/cache/dara-kong_XL.jpg"
+image: "/images/k2/items/cache/e9ad9fee9d0bc73e0b2c055eb0b268ce_XL.jpg"
 ---
 
 Dara Kong (b. 1990, Prey Veng) works across media, currently with a focus on drawing. He took art classes at Sa Sa Art Projects, where he also works as technical coordinator. Dara has undertaken several residencies including San Art Laboratory, Ho Chi Minh City (2015-16); Pisaot residency at Sa Sa Art Projects, Phnom Penh (2013); Tentacles Art Space, Bangkok and Ratchaburi...

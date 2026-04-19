@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 283
 alias: "suraporn-lertwongpaitoon"
-image: "/images/k2/items/cache/suraporn-lertwongpaitoon_XL.jpg"
+image: "/images/k2/items/cache/d382bd8ae87d9139df6458192532657c_XL.jpg"
 ---
 
 Jekky lives and works in Bangkok. He graduated from the Faculty of Painting Sculpture and Graphic Arts in Silpakorn University. He used to be a creative director in J. Walter Thomson advertising agency, his works were awarded many times. He also is a guest lecturer in Advertising and Creative classes at many...

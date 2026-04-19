@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 168
 alias: "wu-chien-hsing"
-image: "/images/k2/items/cache/wu-chien-hsing_XL.jpg"
+image: "/images/k2/items/cache/5fa21cd9e0d2531a2f1dfdffbab46f70_XL.jpg"
 ---
 
 My work and its practice have always been from the qualities of household objects. Through everyday appliances, a certain emotional atmosphere from personal experience will spread. From my point of view, life, memory and objects are like a complete cycle and I have constantly experimenting on how to convey...

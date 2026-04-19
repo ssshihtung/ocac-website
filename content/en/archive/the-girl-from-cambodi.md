@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 279
 alias: "the-girl-from-cambodi"
-image: "/images/k2/items/cache/the-girl-from-cambodi_XL.jpg"
+image: "/images/k2/items/cache/600eb6612b31632f6c618c9c012d873d_XL.jpg"
 ---
 
 Looking into the lives of queer partners, Kong Dara continued his research from his artwork at Ho Chi Minh City to Taipei while he is in residence in OCAC. His residency artwork is centred around the field research on queer lives. As a gay person from Cambodia, he tried to understand partner relationships for gay and lesbian people in Taipei.

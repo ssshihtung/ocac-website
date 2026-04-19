@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 176
 alias: "guo-yu-ping"
-image: "/images/k2/items/cache/guo-yu-ping_XL.jpg"
+image: "/images/k2/items/cache/f0ba2bfd8f936a77d3b146acfe9443c7_XL.jpg"
 ---
 
 Yu-Ping Guo was born in Taiwan, and graduated from National Taiwan University of Arts in 2008. She currently lives and works in Taipei. Her creation lies in between experimental animation and contemporary art, and treats her real-life experiences and the complex colonial history of Asia as the subject matters.

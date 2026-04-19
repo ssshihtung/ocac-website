@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 199
 alias: "wan-shu-yun"
-image: "/images/k2/items/cache/wan-shu-yun_XL.jpg"
+image: "/images/k2/items/cache/ffb67c0cbdf3cc4dd2a13b69ce367cd4_XL.jpg"
 ---
 
 Wan Shu-Yun was born in Taichung, Taiwan and earned Bachelor of Science degree in Psychology from National Chung Cheng University, Taiwan. She is currently studying Fine Arts in Taipei National University of the Arts in Taiwan.

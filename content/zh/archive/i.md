@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 373
 alias: "i"
-image: "/images/k2/items/cache/i_XL.jpg"
+image: "/images/k2/items/cache/83a9554230ed6e6cccfe522a2a4bd53e_XL.jpg"
 ---
 
 這是打開－當代系列的第一個（1999）策展案，此展中展出之新世代藝術家們的作品，理解的不僅是藝術軸線上的造型課題，更體現諸如新世代具體面臨之生活形式的網際網路型態，此型態更具體化地滲浸於日常生活型態、思維中，同時也具體呈顯在藝術實踐範疇上。即經由網際網路鉅量的訊息流通中，他們在國際化...

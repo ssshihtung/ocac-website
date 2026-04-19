@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 204
 alias: "anang-saptoto"
-image: "/images/k2/items/cache/anang-saptoto_XL.jpg"
+image: "/images/k2/items/cache/4fcf9d660236ddb62c8456017158615a_XL.jpg"
 ---
 
 Anang Saptoto 從三年前開始一直在試驗稱為「變形成像」，或被稱為「透視投影」的圖像呈現法。此種方法讓藝術家可藉由因距離或視點不同，而產生觀看時的差異角度，進而實踐作品本身所欲演示出的不同錯覺效果。其創作過程通常始自於 Anang 的隨手剪報，或他個人所收藏的檔案夾中去選擇一個合適的圖像。

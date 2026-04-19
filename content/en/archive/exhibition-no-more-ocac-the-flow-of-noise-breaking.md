@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 291
 alias: "exhibition-no-more-ocac-the-flow-of-noise-breaking"
-image: "/images/k2/items/cache/exhibition-no-more-ocac-the-flow-of-noise-breaking_XL.jpg"
+image: "/images/k2/items/cache/63955aa9869cf7707ada1662dbfb31e2_XL.jpg"
 ---
 
 Between 2011 to 2013, OCAC went through a special trek in zones of Thailand-Taiwan. This is not only the exchanges between people, concepts and practices, but also finding new definitions in the possibilities of an art space. After returning from South East Asia, we not only continue the contemporary art exchanges between Thailand-Taiwan

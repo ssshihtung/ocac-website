@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 289
 alias: "the-second-chapter-of-ln-25-dayong-st-a-solo-exhibition-by-chia-chien-ju"
-image: "/images/k2/items/cache/the-second-chapter-of-ln-25-dayong-st-a-solo-exhibition-by-chia-chien-ju_XL.jpg"
+image: "/images/k2/items/cache/f5207093f4bafcb21c0c017e46b49f6e_XL.jpg"
 ---
 
 *The Second Chapter of Ln. 25, Dayong St. *is a series of solo exhibition about objects from home. The title comes from my old home street address. The first chapter started as a solo show in 2015; now second chapter in the first half of 2016 (this exhibition), combines as a solo exhibition series with another show at the end of the year as the last chapter.

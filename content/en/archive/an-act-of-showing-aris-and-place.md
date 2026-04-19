@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 413
 alias: "an-act-of-showing-aris-and-place"
-image: "/images/k2/items/cache/an-act-of-showing-aris-and-place_XL.jpg"
+image: "/images/k2/items/cache/ceec46ac75e6be7f73874fd5573b298d_XL.jpg"
 ---
 
 Set as a material conversation between Artist Run Initiatives (ARIs) and Aboriginal Art Centres in Australia and the Asia-Pacific, this project embodies and provokes conversations about place: How does place matter for artists? Why do ARIs exist in specific places? What is the place of practice?Writer Chris Kraus’s  *radical localism* points to the importance of the local places of art-making compared to global-centrism noting that ARIs create 'an opportunity to remain in one’s own community and assert an alternative ethos.

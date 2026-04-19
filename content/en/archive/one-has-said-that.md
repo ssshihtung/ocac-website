@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 138
 alias: "one-has-said-that"
-image: "/images/k2/items/cache/one-has-said-that_XL.jpg"
+image: "/images/k2/items/cache/d063d8b7c1471349d2847c26ce4e4d8c_XL.jpg"
 ---
 
 Starting with the words  *one has said that...* , the audience are presented to the historical background of the exhibition site. The true identity of that someone is never actually revealed. As the main theme of this exhibition, that “someone” does not necessarily represent........

@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 101
 alias: "yeh-wei-li"
-image: "/images/k2/items/cache/yeh-wei-li_XL.jpg"
+image: "/images/k2/items/cache/75b44b0e9c2e5d305fa323c6c51d3476_XL.jpg"
 ---
 
 葉偉立1971年台灣台北出生，十一歲時移民美國，於2002年返台定居。1997年取得美國羅德島設計學院攝影碩士學位，並且作品從90年以來便持續地在世界各地展出。過去十年，葉偉立發展自攝影結合文字的各種創作計畫，意圖探究在藝術家居住的城市中，居住者與該城市間...

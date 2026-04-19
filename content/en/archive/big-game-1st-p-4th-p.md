@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 382
 alias: "big-game-1st-p-4th-p"
-image: "/images/k2/items/cache/big-game-1st-p-4th-p_XL.jpg"
+image: "/images/k2/items/cache/e561084e9220383c7204eb40f9bc13f1_XL.jpg"
 ---
 
 Artists are pretty smart. They renew their strategies again, then again, to support the fragile emptiness. It’s as if asking, in a much heard tone, “we are still anxious about how to form a complete puzzle with broken pieces. If we are further and further away from the studio, what’s the position of producing or the identity of being artists?”.

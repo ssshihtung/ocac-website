@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 156
 alias: "kamusta-98b-melting-pot-by-marika-constantino-anjo-bolarda"
-image: "/images/k2/items/cache/kamusta-98b-melting-pot-by-marika-constantino-anjo-bolarda_XL.jpg"
+image: "/images/k2/items/cache/0ef95987526970d668cbb7995fe36b10_XL.jpg"
 ---
 
 Marika Constantino與Anjo Bolarda為菲律賓藝術空間98B的成員，他們的計劃 “Melting Pot”最初是以合作夥伴的關係自98B 的實驗廚房發展而來。“Melting Pot”比喻著食材中意想不到元素的融匯，參與者帶來不同文化與背景的食材，透過經驗及組織上的限制所激發出的料理創造力。

@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 99
 alias: "wasinburee-supanichvoraparch"
-image: "/images/k2/items/cache/wasinburee-supanichvoraparch_XL.jpg"
+image: "/images/k2/items/cache/a42a2aa6c7440291c38ba9adc5892a56_XL.jpg"
 ---
 
 Wasinburee Supanichvoraparch為一名陶藝家與藝術家，生活和工作於泰國Ratchaburi。在德國蘭修特陶藝技術學校修習製陶 (1991-1993)，之後獲取德國卡塞爾大學藝術碩士(1999)，主修陶藝和攝影。藝術家參與多次國內外展出，為2013年威尼斯雙年展泰國館代表...

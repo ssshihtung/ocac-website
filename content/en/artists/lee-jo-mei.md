@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 186
 alias: "lee-jo-mei"
-image: "/images/k2/items/cache/lee-jo-mei_XL.jpg"
+image: "/images/k2/items/cache/c82e68ecc91a6115905b52a4dab0ec5b_XL.jpg"
 ---
 
 The concept LEE Jo-Mei’s practice illustrates perception and its transformation throughout the daily experience so as to depict how we gaze on the texture of everyday life to explore the sense of memory’s own landscape. By using various methods and media to process memory through recording and transformation, it allows our accustomed experiences...

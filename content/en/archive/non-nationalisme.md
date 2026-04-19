@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 110
 alias: "non-nationalisme"
-image: "/images/k2/items/cache/non-nationalisme_XL.jpg"
+image: "/images/k2/items/cache/d722f2a14a84b7ad8053262f61a6106b_XL.jpg"
 ---
 
 Would it be possible that the school training manipulates the thinking in creating art of those who accept academic education? *Non-Nationalisme* discusses no issue about races in nationalism. It bases on the art education to meditate how life experiences from different backgrounds influence people’s sense of beauty...

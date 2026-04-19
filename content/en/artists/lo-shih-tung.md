@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 134
 alias: "lo-shih-tung"
-image: "/images/k2/items/cache/lo-shih-tung_XL.jpg"
+image: "/images/k2/items/cache/62fb5f1024529266c6e71c0c0c9ddb3c_XL.jpg"
 ---
 
 LO Shih Tung, born in 1983, graduated from National Taiwan University of the Arts, Graduate School of Plastic Arts. He currently lives and works in Taipei, Taiwan. Lo focuses on the special textures present in our daily life, seeing them as in Walter Benjamin’s discourse — fragments ......

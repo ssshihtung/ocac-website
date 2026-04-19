@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 405
 alias: "tsai-wan-shuen"
-image: "/images/k2/items/cache/tsai-wan-shuen_XL.jpg"
+image: "/images/k2/items/cache/391d45802a606be64095bd7b66c67316_XL.jpg"
 ---
 
 TSAI Wan Shuen grew up in the archipelago of Penghu, Taiwan. Studied and lived in France during several years and nowadays settled in the region of Taipei. Her artwork is shared between mixed-media installation, drawing, video and poetry. Her installations are ephemeral and constitutes a specific relationship to the physical space and architecture.

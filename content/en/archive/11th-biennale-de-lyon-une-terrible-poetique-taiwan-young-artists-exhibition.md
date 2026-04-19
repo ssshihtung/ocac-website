@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 359
 alias: "11th-biennale-de-lyon-une-terrible-poetique-taiwan-young-artists-exhibition"
-image: "/images/k2/items/cache/11th-biennale-de-lyon-une-terrible-poetique-taiwan-young-artists-exhibition_XL.jpg"
+image: "/images/k2/items/cache/58b053c805beeea9e04dde1724076741_XL.jpg"
 ---
 
 After the success in attracting local art circle’s attention in the 10th Docks Art Fair while working with Olivier Houg Galerie, Le Centre Culturel de Taiwan à Paris work with them again in La Biennale de Lyon in 2011; using the platform of Biennale to present to international artists and professionals the important contemporary artworks from Taiwan.

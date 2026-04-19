@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 103
 alias: "thaweesak-srithongdee"
-image: "/images/k2/items/cache/thaweesak-srithongdee_XL.jpg"
+image: "/images/k2/items/cache/aaa036e4cb16038f90e128d8e39c714f_XL.jpg"
 ---
 
 Thaweesak Srithongdee or Lolay, born in 1970, Thailand, graduated with a master in Fine Art from Silapakorn University in 1996. Lolay is a keen observer of people, their physical and mental characteristics. Using his imagination, in his work he goes on to ponder ...

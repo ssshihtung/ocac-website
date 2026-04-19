@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 303
 alias: "mitting"
-image: "/images/k2/items/cache/mitting_XL.jpg"
+image: "/images/k2/items/cache/7fb770f34c796f7501d3cf0f0dc39075_XL.jpg"
 ---
 
 MITT作為緬甸、印尼、台灣、泰國間藝術家團體的一個臨時性藝術與文化網絡，同時也作為一個聚合集體能量去共同想像區域間對話與交流的動詞。為了進一步回應並探索新自由主義全球經濟體系與各自的政治脈絡下，藝術家的行動力與組織，MITT的會面將是一個檢視藝術實踐者如何應用自主性的行動來穿越既定疆界，與耕耘未來文化生產的共通性文法的機會。

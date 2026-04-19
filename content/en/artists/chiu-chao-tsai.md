@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 247
 alias: "chiu-chao-tsai"
-image: "/images/k2/items/cache/chiu-chao-tsai_XL.jpg"
+image: "/images/k2/items/cache/b320775de3c297425b69dccc362220a9_XL.jpg"
 ---
 
 Chiu's work focuses on interactive mechanism. He considers 'interaction' as the core concept. An interactive mechanism is embedded in the work, and through the involvement of its audience, the structure of the work deviates from its usual rigid form and becomes dynamic and ever-changing...

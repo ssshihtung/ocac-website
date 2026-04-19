@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 311
 alias: "traffic-jam-2-taipei"
-image: "/images/k2/items/cache/traffic-jam-2-taipei_XL.jpg"
+image: "/images/k2/items/cache/59b514757c03f4e14c006ca63de02928_XL.jpg"
 ---
 
 很開心邀請到目前於寶藏巖駐村的跨國錄像團體 Traffic Jam 與我們一同聊創作 -- 「Traffic」代表著城市與遊牧，「Jam」意味著相聚和互動，從透過網路合作「精緻的屍體錄像計畫」(ECVP) 而相識的團員，進一步以實際面對面的方式創作，並以遊牧駐村的模式，針對每個不同駐村的城市進行探索。

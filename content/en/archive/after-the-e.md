@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 111
 alias: "after-the-e"
-image: "/images/k2/items/cache/after-the-e_XL.jpg"
+image: "/images/k2/items/cache/b8292acafd72142128a3481ac4b0abff_XL.jpg"
 ---
 
 Two members in OCAC, Hsien-Hsu Chu and Chia-Jen Chen, occupies the co-curators in *After the E*. Young artists together with their art are invited to the exhibit. Under the concept of the E generation, *After the E* has the youth’s new logic, impacted by the Internet and cyber media, be at issue. However, reverse ...

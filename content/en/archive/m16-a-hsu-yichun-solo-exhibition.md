@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 386
 alias: "m16-a-hsu-yichun-solo-exhibition"
-image: "/images/k2/items/cache/m16-a-hsu-yichun-solo-exhibition_XL.jpg"
+image: "/images/k2/items/cache/65672688a4f4c8a57ea38e20056bdce1_XL.jpg"
 ---
 
 Images transfer messages; messages cover another layer of images forcefully. The multiplicity in the image narrative reflect how the viewers actively read with their own consciousness. Frames can be chosen, and randomly cut into many pictures - this shows that the act of reporting (documenting) the reality..

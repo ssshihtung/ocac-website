@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 192
 alias: "wang-shao-gang-solo-exhibition"
-image: "/images/k2/items/cache/wang-shao-gang-solo-exhibition_XL.jpg"
+image: "/images/k2/items/cache/c6db11a71571f6269d8aa754fc40212f_XL.jpg"
 ---
 
 Kung Fu has been used in the film industries to portray an ideology of Chinese as being proficient in martial art and protective of their race. This is the product of a culture under pressure and fighting against invasions. The idealistic heroic images have been created through exaggerated and spectacular aesthetic...

@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 135
 alias: "chang-en-man"
-image: "/images/k2/items/cache/chang-en-man_XL.jpg"
+image: "/images/k2/items/cache/cf4507ae4969876df39b5f798b6f40ce_XL.jpg"
 ---
 
 At the beginning, the artist's identity triggered her aspirations to embark on a journey across the island. Through the returning visit to the aboriginal tribes and experiencing the social geographical texture of the locale, the artist attempted at unearthing the complex food.....

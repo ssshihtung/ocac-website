@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 358
 alias: "around-us-a-chiu-chen-hung-solo-exhibition"
-image: "/images/k2/items/cache/around-us-a-chiu-chen-hung-solo-exhibition_XL.jpg"
+image: "/images/k2/items/cache/3b77d3f73b59742412f393cd0d264b14_XL.jpg"
 ---
 
 The work *Around Us *is like a journey. Chiu Chen-Hung discovered a bunch of thrown away mine carts by chance, abandoned in a place called “Hoping Marble Mine” in the eastern mountain areas of Taiwan. In the past, these carts were not only used for transport, but also as working stations for the miners to mend imperfect diamonds.

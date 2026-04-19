@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 353
 alias: "liverpool-biennial-2012-metro-wonderland-taiwanese-artists-and-urban-morphology"
-image: "/images/k2/items/cache/liverpool-biennial-2012-metro-wonderland-taiwanese-artists-and-urban-morphology_XL.jpg"
+image: "/images/k2/items/cache/7ced67c0d648122bcae10129de981341_XL.jpg"
 ---
 
 Taiwanese architect HSIEH Ying-Chun and his Atelier-3 will present in the Liverpool Biennial 2012 exhibition The Unexpected Guest. In addition, three young artists from Taiwan, CHEN Chia-Jen, CHIU Cheng-Hung, and HSU Chia-Wei, have been invited to join in the collateral exhibition City States.

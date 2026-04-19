@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 218
 alias: "jason-wee"
-image: "/images/k2/items/cache/jason-wee_XL.jpg"
+image: "/images/k2/items/cache/aa5045f13216477abf2a0e16a08acd59_XL.jpg"
 ---
 
 Jason Wee is an artist and a writer. His art practice is concerned with the hollowing out of singular authority in favour of polyphony. He transforms these singular histories and spaces into various visual and written materials, with particular attention to architectures, idealism and unexplored futures. He founded and runs Grey Projects, an artists’ space, library and residency...

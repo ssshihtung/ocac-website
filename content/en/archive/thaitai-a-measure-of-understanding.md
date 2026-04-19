@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 109
 alias: "thaitai-a-measure-of-understanding"
-image: "/images/k2/items/cache/thaitai-a-measure-of-understanding_XL.jpg"
+image: "/images/k2/items/cache/73608782f50eb6af17bb69bdcd662692_XL.jpg"
 ---
 
 Following the end of the namesake demonstrated in Bangkok Art and Culture Center in 2012, *ThaiTai: A Measure of Understanding* toured to Taiwan for exhibition and was highly marked as the cooperation project milestone between Taiwan and Thailand. It inherits and emphasizes the significance in the interaction process... 

@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 7
 alias: "sakarin-krue-on"
-image: "/images/k2/items/cache/sakarin-krue-on_XL.jpg"
+image: "/images/k2/items/cache/184b7cb84d7b456c96a0bdfbbeaa5f14_XL.jpg"
 ---
 
 Sakarin Krue-On, born 1965 in Mae Hong Sorn, Thailand, is an Associate Dean For Sanam Chandra Campus Affair / Art Instructor at The Faculty of Painting, Sculpture and Graphic Art, Silpakorn University Bangkok. 8 Solo Exhibitions were shown since year 2000 : *Temple*(2000), ...

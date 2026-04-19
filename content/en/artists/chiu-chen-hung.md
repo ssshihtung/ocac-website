@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 107
 alias: "chiu-chen-hung"
-image: "/images/k2/items/cache/chiu-chen-hung_XL.jpg"
+image: "/images/k2/items/cache/938a195f8810cb9b31c6503221891897_XL.jpg"
 ---
 
 His creative works revolve around collecting those inadvertently hidden objects/people and legends surrounding him, as well as rewriting the ambiguous ties between these “anonymous identities” and the locality, in a sense analogous to the connections between body and building, city and cells, monuments and intimacy. Comparable to the process of remodeling monuments...

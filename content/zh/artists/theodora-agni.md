@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 208
 alias: "theodora-agni"
-image: "/images/k2/items/cache/theodora-agni_XL.jpg"
+image: "/images/k2/items/cache/ca332973fc363da77aefed58534dcd5c_XL.jpg"
 ---
 
 Theodora Agni ，1983 年出生於印尼班圖爾，畢業於國立日惹大學(Gadjah Mada University, Yogyakarta, Indonesia)，主修傳播學。當代藝術與傳播學之間相似的實踐方式與理論促使她於進入藝術行政管理的領域。

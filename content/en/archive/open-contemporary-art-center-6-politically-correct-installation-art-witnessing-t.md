@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 114
 alias: "open-contemporary-art-center-6-politically-correct-installation-art-witnessing-the-contemporary-log-into-focus-2003"
-image: "/images/k2/items/cache/open-contemporary-art-center-6-politically-correct-installation-art-witnessing-the-contemporary-log-into-focus-2003_XL.jpg"
+image: "/images/k2/items/cache/cd66a7a18d37d7e5dd969c249e9a1ecb_XL.jpg"
 ---
 
 We launched this project in response to the invitation of the Art Site of Chiayi Railway Warehouse. The curatorial project follows the trajectory of the Taiwanese contemporary art world and reflects its present conditions. In particular, we investigate the creative methods and thinking concerning installation art.

@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 253
 alias: "via-p-p-t"
-image: "/images/k2/items/cache/via-p-p-t_XL.jpg"
+image: "/images/k2/items/cache/28b8f12309e9ac4afaade20e5d04ffc2_XL.jpg"
 ---
 
 Flux Kit是在緬甸仰光的一個獨立組織，致力於創造跨文化的相遇，及透過各種不一樣的策展計畫、研究和藝術生產記錄當代文化，希望能促進不同文化背景和生活經驗的人們能有對話，而在歐洲及亞洲地區舉辦了許多活動，拓展全世界創作者及思想者的網絡。Flux Kit籌備了一個常態研究計畫，並於2014年舉辦了仰光當代對話藝術節...

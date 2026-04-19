@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 319
 alias: "post-document"
-image: "/images/k2/items/cache/post-document_XL.jpg"
+image: "/images/k2/items/cache/d521b3285331148964fc0a459a826ae3_XL.jpg"
 ---
 
 In 2006, a new generation of artists tried to develop a new language that can be part of our every-day living, rather than restricted by unchangeable classical procedures. The clues of these can be tracked in the previous Taipei Biennials, like *Great Theatre of the World*, *Do You Believe in Reality?*, and also *Dirty Yoga* in 2006.

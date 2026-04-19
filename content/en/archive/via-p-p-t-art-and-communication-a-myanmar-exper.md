@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 254
 alias: "via-p-p-t-art-and-communication-a-myanmar-exper"
-image: "/images/k2/items/cache/via-p-p-t-art-and-communication-a-myanmar-exper_XL.jpg"
+image: "/images/k2/items/cache/935dbd09c0a7727e2143877810820513_XL.jpg"
 ---
 
 Art and Communication: a Myanmar Experience" with Ilaria Benini (Flux Kit) Flux Kit is an independent organization based in Yangon (Myanmar). It is designed to create intercultural encounters and to record contemporary culture through a variety of curatorial projects, researches and artistic production. Its mission is to promote debate between people with...

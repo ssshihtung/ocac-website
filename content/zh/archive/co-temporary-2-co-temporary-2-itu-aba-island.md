@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 415
 alias: "co-temporary-2-co-temporary-2-itu-aba-island"
-image: "/images/k2/items/cache/co-temporary-2-co-temporary-2-itu-aba-island_XL.jpg"
+image: "/images/k2/items/cache/f3b735e3300faff0e348331a5413d4d3_XL.jpg"
 ---
 
 打開-當代於今年年底再度來到印尼日惹, 延續了自去年打開-當代藝術工作站的主要計畫「CO- Temporary：台灣-東南亞藝文交流暨論壇」，其將「CO- Temporary」這個從過去打開-當代策劃展覽的印刷品的錯誤印刷，缺漏了”n”字而成為一種當代場景中暫時短路的詞彙。此次計劃「CO- Temporary 第二階段：伊圖阿巴的島」( CO- Temporary #2：Itu Apa Island ) 是以位於南海諸島中的太平島國際名稱Itu Aba Island為符號。太平島的國際名稱Itu Aba Island在馬來語的意思：「那是什麼島？」，也像是台灣－東南亞在區域間試圖找尋交流與互相映射座標之下探索和提問的潛流。

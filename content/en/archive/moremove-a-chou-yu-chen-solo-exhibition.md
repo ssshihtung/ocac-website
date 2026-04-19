@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 383
 alias: "moremove-a-chou-yu-chen-solo-exhibition"
-image: "/images/k2/items/cache/moremove-a-chou-yu-chen-solo-exhibition_XL.jpg"
+image: "/images/k2/items/cache/92c3523de61d06eebdc515f2babb64b9_XL.jpg"
 ---
 
 Project *Moremove *mainly explores how physical movement can produce repetitive beats, and objects can produce non-habitual movements (remixed electronic dance music produces the core atmosphere in the project). The performance and video recording will be demonstrated within the exhibition space.

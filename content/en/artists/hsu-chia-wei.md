@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 106
 alias: "hsu-chia-wei"
-image: "/images/k2/items/cache/hsu-chia-wei_XL.jpg"
+image: "/images/k2/items/cache/d6e7bc44feb1613d041d5385e5745b10_XL.jpg"
 ---
 
 HSU Chia-Wei's creative method adheres to a specific type of “Narrative” -- a way of documenting which interferes with the text in reality, by focusing on site-specific and peculiar characteristics, such as memory, imagination, or identification. He has been continuously trying to merge the ......

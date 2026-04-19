@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 165
 alias: "patcharapon-tangruen"
-image: "/images/k2/items/cache/patcharapon-tangruen_XL.jpg"
+image: "/images/k2/items/cache/e17bf28887a04e7713039bc3ae638d41_XL.jpg"
 ---
 
 1981年生於泰國，又以別名Alex Face進行塗鴉創作。游移在城市中的晦澀空間，他將地下生活反映於畫廊空間。許多作品以身著兔子裝的女孩角色表現。Alex畢業於泰國先皇技術學院美術系，曾參與許多街頭藝術展覽，如英國倫敦莫尼克藝術博覽會(2013)、先皇技術學院美術系20週年...

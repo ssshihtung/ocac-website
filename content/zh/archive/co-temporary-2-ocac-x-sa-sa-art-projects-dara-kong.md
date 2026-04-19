@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 239
 alias: "co-temporary-2-ocac-x-sa-sa-art-projects-dara-kong"
-image: "/images/k2/items/cache/co-temporary-2-ocac-x-sa-sa-art-projects-dara-kong_XL.jpg"
+image: "/images/k2/items/cache/78a38d90a5f5af5857b8e93fa4dd5a84_XL.jpg"
 ---
 
 CO- TEMPORARY在第二階段，我們邀請來自柬埔寨的新生代藝術家[Dara Kong](index.php/zh/artists/item/209-dara-kong)，Dara 的創作以繪畫為主，透過細膩簡潔的線條呈現獨特的符號圖像。他的靈感大多來自於自己或身邊的人錯綜複雜的經歷、情感與記憶輪廓。

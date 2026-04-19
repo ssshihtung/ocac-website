@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 195
 alias: "noa-yekutieli"
-image: "/images/k2/items/cache/noa-yekutieli_XL.jpg"
+image: "/images/k2/items/cache/ffe144b59c409587b4c9211fb31afdfe_XL.jpg"
 ---
 
 Noa Yekutieli was born in California (USA) in 1989 and immigrated to Israel as a young child. Yekutieli lives and works in Tel Aviv (Israel).

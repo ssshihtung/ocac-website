@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 202
 alias: "co-temporary-southeast-asia-taiwan-forum-and-exchange-program-on-arts-and-culture"
-image: "/images/k2/items/cache/co-temporary-southeast-asia-taiwan-forum-and-exchange-program-on-arts-and-culture_XL.jpg"
+image: "/images/k2/items/cache/bd3346ba561b5b55180dd1441a09d1ee_XL.jpg"
 ---
 
 We invite six essential art spaces from Indonesia, Cambodia, Singapore, Malaysia, which includes artist residency organizations, galleries and artist-based spaces. The common issue is that how the conditions of different countries, religious, culture, economy and geography influence the ecosystem of art.

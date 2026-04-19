@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 315
 alias: "lo-shih-tung-solo-exhibition-annual-shifting-rapidly-or-very-slowly"
-image: "/images/k2/items/cache/lo-shih-tung-solo-exhibition-annual-shifting-rapidly-or-very-slowly_XL.jpg"
+image: "/images/k2/items/cache/3f4808b525a42a0bb340252b3c0de1d3_XL.jpg"
 ---
 
 “Annual”, a quantitive word that can be both short and long, rapid and slow. It is both a short time, and a lasting time. In this noun that seems to be extremely past-tense, but also future-tense, it is about how individual’s point of view or viewpoint responds to the issues (events, sites) of the world. This exhibition happens in September 2011...

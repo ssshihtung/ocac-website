@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 349
 alias: "biennial-scope"
-image: "/images/k2/items/cache/biennial-scope_XL.jpg"
+image: "/images/k2/items/cache/3bd6583af5a14653b7b54db2c9fe7f3e_XL.jpg"
 ---
 
 Open Contemporary was invited to be part of Taipei Biennial 2010, and created project *Biennial Scope *for Taipei Biennial. There are three stages to the project, first and second stages was completed along with the end of Taipei Biennial exhibition. The third stage is a publication project.

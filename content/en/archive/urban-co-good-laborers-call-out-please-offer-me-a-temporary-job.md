@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 314
 alias: "urban-co-good-laborers-call-out-please-offer-me-a-temporary-job"
-image: "/images/k2/items/cache/urban-co-good-laborers-call-out-please-offer-me-a-temporary-job_XL.jpg"
+image: "/images/k2/items/cache/569585164bf57f8a1e8703b19497bdbc_XL.jpg"
 ---
 
 We are concerned about the fragments of urban changes which take place in our surroundings. In this new emerging art block, *Urban Core*, an assemblage of artists make up *Urban Co.*, a temporary group...

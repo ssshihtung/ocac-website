@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 97
 alias: "hsu-chia-wei"
-image: "/images/k2/items/cache/hsu-chia-wei_XL.jpg"
+image: "/images/k2/items/cache/d6e7bc44feb1613d041d5385e5745b10_XL.jpg"
 ---
 
 許家維的創作經常呈現一種敘事體的形態，以一種記錄性的方式去介入現實文本，並著力在地方的特殊性，其中的關鍵組件包含了地方的記憶、想像與認同。他不斷的嘗試融合當代藝術與電影的語言去發展作品，並關注於如何透過影像創作介入現實，進而生產一種介於敘事世界與現實之間的異質敘事體。

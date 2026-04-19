@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 119
 alias: "our-one-work-exhibition-project"
-image: "/images/k2/items/cache/our-one-work-exhibition-project_XL.jpg"
+image: "/images/k2/items/cache/47e29f9fe96a1771642fb05ac8a8fd00_XL.jpg"
 ---
 
 Our *One Work Exhibition Project* perpetuates the objective (spirit/aim) with which Open-Contemporary Art Center was founded. We introduce contemporary artists who possess a creative vocabulary by having them participate in year-round alternative exhibitions, in which a single piece is exhibited at a time. We invite curators to select the works of five or six artists for every exhibition — each lasting from Tuesday to Thursday. During the exhibition,  artists conduct dialogues with the audience by inviting them to speak. Through conversing with other artists, the creators may re-examine their works. Also, following the conclusion of all exhibitions, we will invite professional art critics along will all participating artists to hold a large seminar concerning the project series.

@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 348
 alias: "traffic-jam-2-taipei-artist-talk-x-screening-x-exquisite-corpse-video-project"
-image: "/images/k2/items/cache/traffic-jam-2-taipei-artist-talk-x-screening-x-exquisite-corpse-video-project_XL.jpg"
+image: "/images/k2/items/cache/de2df791682f079f8397226a3ff38bc7_XL.jpg"
 ---
 
 *TRAFFIC JAM* is a project-based collective that unites international artists in an urban environment. Intercultural collaboration and communication through artistic engagement is one of the goals of the group. Sharing a common interest in the medium of experimental video, the group was created to collaborate and to inspire one another while exchanging ideas through the creative process.

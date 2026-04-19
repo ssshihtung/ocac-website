@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 384
 alias: "traverse-a-chen-chia-jen-exhibition"
-image: "/images/k2/items/cache/traverse-a-chen-chia-jen-exhibition_XL.jpg"
+image: "/images/k2/items/cache/011e88ef4a8328e08be9d913808b8290_XL.jpg"
 ---
 
 In recent work, the use of images is the most noticeable. The features of this medium created more gaps for exploration in its slim and non-physical form. From the movements in history, the use of found objects and site based installations has destroyed many sensory formations within the frame of paintings.

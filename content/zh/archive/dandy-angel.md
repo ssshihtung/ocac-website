@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 362
 alias: "dandy-angel"
-image: "/images/k2/items/cache/dandy-angel_XL.jpg"
+image: "/images/k2/items/cache/5b62d01506bd8a53b6c4928e25fa9b8a_XL.jpg"
 ---
 
 以兩個小孩為名的展覽 「Dandy & Angel」，位於打開－當代藝術工作站，在這個獨立藝術空間中渲染出夏日的宗教氛圍。整個空間呈現了一種類似花園的地帶，紅、黃雙色彩旗懸掛成為它的裝飾，我們還可以看見一些奇異的景象，一個佈滿綠葉小花的柱子、穿鱷魚裝的鱷魚、Santo Nino聖嬰、一間繽紛的小屋、一段女孩剪落的長髮、一面已消失部落的地圖。

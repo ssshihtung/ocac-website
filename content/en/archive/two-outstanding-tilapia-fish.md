@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 350
 alias: "two-outstanding-tilapia-fish"
-image: "/images/k2/items/cache/two-outstanding-tilapia-fish_XL.jpg"
+image: "/images/k2/items/cache/f9a9b7c9f33a923e5475b478a62125ae_XL.jpg"
 ---
 
 Today, we have almost given up the words “genius” or “natural talent” to describe artists. Artists also don’t use splendid techniques or unique literacy or theology to mark their characters. In examples of avant-garde, where “everyone is artists”, or “art is life, life is art”, not only expand the boundary of the arts, but also speaks of the dying of “geniuses”.

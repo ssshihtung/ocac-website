@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 147
 alias: "exform-taipei"
-image: "/images/k2/items/cache/exform-taipei_XL.jpg"
+image: "/images/k2/items/cache/f7abac252ae5ed68121b92ba7a669d87_XL.jpg"
 ---
 
 In Taipei, there remains a rich black in the night. Every night, food stands repeatedly gather and part, making a cluster of lights which are a little vulgar and ununified. But when you step away from the crowded streets, you come across narrow labyrinthine alleys filled with deep darkness in contrast to the vibrant...

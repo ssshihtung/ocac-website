@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 282
 alias: "patcharapon-tangruen"
-image: "/images/k2/items/cache/patcharapon-tangruen_XL.jpg"
+image: "/images/k2/items/cache/e17bf28887a04e7713039bc3ae638d41_XL.jpg"
 ---
 
 Patcharapon Tangruen was born 1981 in Thailand; also known as Alex Face for his graffiti art. Roaming in the dark corners of the urban environment, he presented these inspirations from street life in art galleries. Many his work features the character of a girl child in rabbit costume. Alex received a BFA...

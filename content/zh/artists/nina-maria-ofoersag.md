@@ -5,7 +5,7 @@ draft: false
 section: artists
 k2_id: 406
 alias: "nina-maria-ofoersag"
-image: "/images/k2/items/cache/nina-maria-ofoersag_XL.jpg"
+image: "/images/k2/items/cache/73c564de315ae81db9aaa50a11f02581_XL.jpg"
 ---
 
 NINA-MARIA OFÖRSAGD 來自芬蘭，為媒體藝術家兼策展人，除個人創作之餘，亦執行跨領域藝術的策展計畫。她的創作擅長在都市環境中尋找存有歷史記憶的地點，並透過影像紀錄重組成一虛構的故事，來反映時空的歷史層次與張力。
