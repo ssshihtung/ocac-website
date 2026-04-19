@@ -1,0 +1,81 @@
+baseURL = "https://ocac.tw/"
+title = "打開—當代藝術工作站 OCAC"
+
+defaultContentLanguage = "zh"
+defaultContentLanguageInSubdir = false
+
+[languages]
+  [languages.zh]
+    languageName = "中"
+    languageCode = "zh-TW"
+    weight = 1
+    title = "打開—當代藝術工作站"
+    contentDir = "content/zh"
+    [languages.zh.params]
+      description = "Open Contemporary Art Center"
+  [languages.en]
+    languageName = "EN"
+    languageCode = "en"
+    weight = 2
+    title = "Open Contemporary Art Center"
+    contentDir = "content/en"
+    [languages.en.params]
+      description = "Open Contemporary Art Center"
+
+[params]
+  logo_black = "/images/ui/logo-b.png"
+  logo_white = "/images/ui/logo-w.png"
+  logo_mobile = "/images/ui/mlogo.png"
+  footer_logo = "/images/ui/footerlogo.png"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
+
+[outputs]
+  home = ["HTML"]
+  section = ["HTML"]
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  year = "years"
+  region = "regions"
+
+[pagination]
+  pagerSize = 24
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+  [[menu.main]]
+    identifier = "artists"
+    name = "Artists"
+    url = "/artists/"
+    weight = 2
+  [[menu.main]]
+    identifier = "archive"
+    name = "Archive"
+    url = "/archive/"
+    weight = 3
+  [[menu.main]]
+    identifier = "artspaces"
+    name = "Art Spaces"
+    url = "/artspaces/"
+    weight = 4
+  [[menu.main]]
+    identifier = "visit"
+    name = "Visit"
+    url = "/visit/"
+    weight = 5
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 6

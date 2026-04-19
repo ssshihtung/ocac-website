@@ -1,0 +1,64 @@
+{{ define "main" }}
+
+{{/* Latest Archive */}}
+<section class="home-section">
+  <div class="container">
+    <div class="section-header">
+      <h2 class="section-title">Archive</h2>
+      <a href="{{ if eq .Lang "en" }}/en{{ end }}/archive/" class="section-more">View All →</a>
+    </div>
+    <div class="items-grid">
+      {{ $archiveSection := "archive" }}
+      {{ range first 8 (where .Site.RegularPages "Section" $archiveSection) }}
+      <article class="item-card">
+        <a href="{{ .RelPermalink }}">
+          {{ with .Params.image }}
+          <div class="item-thumb">
+            <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+          </div>
+          {{ end }}
+          <div class="item-info">
+            {{ with .Params.date_range }}
+            <div class="item-date">{{ . }}</div>
+            {{ else }}
+            <div class="item-date">{{ .Date.Format "2006.01.02" }}</div>
+            {{ end }}
+            <h3 class="item-title">{{ .Title }}</h3>
+          </div>
+        </a>
+      </article>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{/* Artists */}}
+<section class="home-section">
+  <div class="container">
+    <div class="section-header">
+      <h2 class="section-title">Artists</h2>
+      <a href="{{ if eq .Lang "en" }}/en{{ end }}/artists/" class="section-more">View All →</a>
+    </div>
+    <div class="items-grid">
+      {{ range first 8 (where .Site.RegularPages "Section" "artists") }}
+      <article class="item-card">
+        <a href="{{ .RelPermalink }}">
+          {{ with .Params.image }}
+          <div class="item-thumb">
+            <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+          </div>
+          {{ end }}
+          <div class="item-info">
+            <h3 class="item-title">{{ .Title }}</h3>
+            {{ with .Params.region }}
+            <div class="item-date">{{ . }}</div>
+            {{ end }}
+          </div>
+        </a>
+      </article>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ end }}

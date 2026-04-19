@@ -1,0 +1,51 @@
+{{ define "main" }}
+<div class="article-page">
+  <div class="article-header">
+    <h1 class="article-title">{{ .Title }}</h1>
+    <div class="article-meta">
+      {{ with .Params.date_range }}{{ . }}{{ else }}{{ if not .Date.IsZero }}{{ .Date.Format "2006.01.02" }}{{ end }}{{ end }}
+      {{ with .Params.artist_name }} — {{ . }}{{ end }}
+    </div>
+  </div>
+
+  <div class="article-layout">
+    <div class="article-body">
+      {{ with .Params.image }}
+      <img src="{{ . }}" alt="{{ $.Title }}" style="margin-bottom: 2em;">
+      {{ end }}
+
+      {{ .Content }}
+
+      {{ with .Params.gallery }}
+      <div class="article-gallery">
+        {{ range . }}
+        <img src="{{ . }}" alt="" loading="lazy">
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+
+    <aside class="article-sidebar">
+      {{ with .Params.tags }}
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">Tags</h3>
+        <div class="sidebar-tags">
+          {{ range . }}
+          <a href="#">{{ . }}</a>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+
+      {{ with .Params.related_links }}
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">Related</h3>
+        {{ range . }}
+        <p><a href="{{ .url }}">{{ .title }}</a></p>
+        {{ end }}
+      </div>
+      {{ end }}
+    </aside>
+  </div>
+</div>
+{{ end }}

@@ -1,0 +1,19 @@
+---
+title: "ThaiTai : A Measure of Understanding"
+date: 2014-02-07T16:00:00+08:00
+draft: false
+section: archive
+k2_id: 109
+alias: "thaitai-a-measure-of-understanding"
+image: "/images/k2/items/cache/thaitai-a-measure-of-understanding_XL.jpg"
+---
+
+Following the end of the namesake demonstrated in Bangkok Art and Culture Center in 2012, *ThaiTai: A Measure of Understanding* toured to Taiwan for exhibition and was highly marked as the cooperation project milestone between Taiwan and Thailand. It inherits and emphasizes the significance in the interaction process... 
+[Lee Jo Mei](index.php/en/artists/item/186-lee-jo-mei)、[Chou Yu Cheng](index.php/en/artists/item/167-chou-yu-cheng)、[Lin Chiwei](index.php/en/artists/item/205-lin-chiwei)、[Wu Chien Hsing](index.php/en/artists/item/168-wu-chien-hsing)、[Chiu Chen Hung](index.php/en/artists/item/107-chiu-chen-hung)、[Chiu Chao Tsai](index.php/en/artists/item/247-chiu-chao-tsai)、[Fan Hsiao Lan](index.php/en/artists/item/246-fan-hsiao-lan)、[Shih Pei Chun](index.php/en/artists/item/157-shih-pei-chun)、[Chi Kai Yuan](index.php/en/artists/item/166-chi-kai-yuan)、[Hsu Chia Wei](index.php/en/artists/item/106-hsu-chia-wei)、[Syu Jia Jhen](index.php/en/artists/item/207-syu-jia-jhen)、[Chia Chen Jen](index.php/en/artists/item/123-chen-chia-jen)、Huang Chunzhen + Liu Youcheng + Liu Yuqiao、[Chang En Man](index.php/en/artists/item/152-chang-en-man)、[Yeh Wei Li](index.php/en/artists/item/102-yeh-wei-li)、[Liu Hojang](index.php/en/artists/item/227-liu-hojang)、[Lo Shih Tung](index.php/en/artists/item/134-lo-shih-tung)
+
+Following the end of the namesake demonstrated in Bangkok Art and Culture Center in 2012,* ThaiTai: A Measure of Understanding* toured to Taiwan for exhibition and was highly marked as the cooperation project milestone between Taiwan and Thailand. It inherits and emphasizes the significance in the interaction process, and therefore, more and more Thai artists have been invited to Taiwan for art creating. Collaboration and assistance allow those Thai artists to innovate and develop in Taiwan. The exhibit space in Chung Shan Creative Hub is divided into three display areas, which respectively represent three questions: “Is the encounter of ThaiTai an accident?” “Should ThaiTai be prejudiced?” “How do we imagine ThaiTai？” These three matters show the reflection to the exhibit concept and the feedback to the communication in ThaiTai project.
+
+ 
+
+Artists : Suwicha and Kritsada Dussadeewanich, Alex Face, Preeyachanok Ketsuwan, [Sakarin Krue-On](index.php/en/component/k2/item/7-sakarin-krue-on), Rachan Komklieng, Suraporn Lertwongpaitoon, [Jiandyin (](index.php/en/component/k2/item/105-jiandyin)Pornpilai and Jiradej Meemalai), [Jakrawal Nilthamrong](index.php/en/component/k2/item/206-jakrawal-nilthamrong) and Kaensan Rattanasomrerk, Suporn Shoosongdej, [Thaweesak Srithongdee](index.php/en/component/k2/item/103-thaweesak-srithongdee), Wasinburee Supanichvoraparch, Sutthirat Supaparinya
+[Lee Jo Mei](index.php/en/artists/item/186-lee-jo-mei)、[Chou Yu Cheng](index.php/en/artists/item/167-chou-yu-cheng)、[Lin Chiwei](index.php/en/artists/item/205-lin-chiwei)、[Wu Chien Hsing](index.php/en/artists/item/168-wu-chien-hsing)、[Chiu Chen Hung](index.php/en/artists/item/107-chiu-chen-hung)、[Chiu Chao Tsai](index.php/en/artists/item/247-chiu-chao-tsai)、[Fan Hsiao Lan](index.php/en/artists/item/246-fan-hsiao-lan)、[Shih Pei Chun](index.php/en/artists/item/157-shih-pei-chun)、[Chi Kai Yuan](index.php/en/artists/item/166-chi-kai-yuan)、[Hsu Chia Wei](index.php/en/artists/item/106-hsu-chia-wei)、[Syu Jia Jhen](index.php/en/artists/item/207-syu-jia-jhen)、[Chia Chen Jen](index.php/en/artists/item/123-chen-chia-jen)、Huang Chunzhen + Liu Youcheng + Liu Yuqiao、[Chang En Man](index.php/en/artists/item/152-chang-en-man)、[Yeh Wei Li](index.php/en/artists/item/102-yeh-wei-li)、[Liu Hojang](index.php/en/artists/item/227-liu-hojang)、[Lo Shih Tung](index.php/en/artists/item/134-lo-shih-tung)

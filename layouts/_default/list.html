@@ -1,0 +1,45 @@
+{{ define "main" }}
+<div class="section-page">
+  <div class="page-header">
+    <h1 class="page-title">{{ .Title }}</h1>
+  </div>
+
+  {{ with .Params.filters }}
+  <div class="filter-bar">
+    {{ range . }}
+    <a href="#" data-filter="{{ .tag }}">{{ .label }}</a>
+    <span class="filter-sep">|</span>
+    {{ end }}
+  </div>
+  {{ end }}
+
+  <div class="items-grid">
+    {{ range .Pages }}
+    <article class="item-card" {{ with .Params.tags }}data-tags="{{ delimit . "," }}"{{ end }}>
+      <a href="{{ .RelPermalink }}">
+        {{ with .Params.image }}
+        <div class="item-thumb">
+          <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+        </div>
+        {{ end }}
+        <div class="item-info">
+          {{ with .Params.date_range }}
+          <div class="item-date">{{ . }}</div>
+          {{ else }}
+          {{ if not .Date.IsZero }}
+          <div class="item-date">{{ .Date.Format "2006.01.02" }}</div>
+          {{ end }}
+          {{ end }}
+          <h3 class="item-title">{{ .Title }}</h3>
+          {{ with .Params.subtitle }}
+          <div class="item-intro">{{ . }}</div>
+          {{ end }}
+        </div>
+      </a>
+    </article>
+    {{ end }}
+  </div>
+
+  {{ template "_internal/pagination.html" . }}
+</div>
+{{ end }}

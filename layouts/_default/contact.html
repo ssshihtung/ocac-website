@@ -1,0 +1,22 @@
+{{ define "main" }}
+<div class="contact-page">
+  <div class="page-header">
+    <h1 class="page-title">{{ .Title }}</h1>
+  </div>
+  <div class="contact-grid">
+    <div class="contact-info">
+      {{ if eq .Lang "zh" }}
+      <h2>打開—當代藝術工作站</h2>
+      <p>Open Contemporary Art Center</p>
+      <p>台南市中西區南門路43巷20號</p>
+      <p>No.20, Ln. 43, Nanmen Rd., West Central Dist., Tainan City, Taiwan</p>
+      <p>Email: <a href="mailto:ocac.tw@gmail.com">ocac.tw@gmail.com</a></p>
+      {{ else }}
+      <h2>Open Contemporary Art Center</h2>
+      <p>No.20, Ln. 43, Nanmen Rd., West Central Dist., Tainan City, Taiwan</p>
+      <p>Email: <a href="mailto:ocac.tw@gmail.com">ocac.tw@gmail.com</a></p>
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}

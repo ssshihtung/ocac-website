@@ -1,0 +1,24 @@
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-logo">
+      <img src="{{ .Site.Params.footer_logo }}" alt="{{ .Site.Title }}">
+    </div>
+    <div class="footer-info">
+      <p>
+        {{ if eq .Lang "zh" }}
+          打開—當代藝術工作站 Open Contemporary Art Center<br>
+          台南市中西區南門路43巷20號
+        {{ else }}
+          Open Contemporary Art Center<br>
+          No.20, Ln. 43, Nanmen Rd., West Central Dist., Tainan City, Taiwan
+        {{ end }}
+      </p>
+    </div>
+    <div class="footer-links">
+      <a href="https://www.facebook.com/ocac.tw" target="_blank" rel="noopener">Facebook</a>
+    </div>
+    <div class="footer-copy">
+      <p>&copy; {{ now.Year }} Open Contemporary Art Center</p>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,49 @@
+<header class="site-header">
+  <div class="header-inner">
+    <a href="{{ .Site.Home.RelPermalink }}" class="site-logo">
+      <img src="{{ .Site.Params.logo_black }}" alt="{{ .Site.Title }}" class="logo-desktop">
+      <img src="{{ .Site.Params.logo_mobile }}" alt="{{ .Site.Title }}" class="logo-mobile">
+    </a>
+
+    <button class="menu-toggle" aria-label="Menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+
+    <nav class="site-nav" id="site-nav">
+      <ul class="nav-list">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+        <li class="nav-item{{ if $currentPage.HasMenuCurrent "main" . }} is-active{{ end }}">
+          {{- $localizedURL := .URL -}}
+          {{- if eq $currentPage.Lang "en" -}}
+            {{- $localizedURL = printf "/en%s" .URL -}}
+          {{- end -}}
+          <a href="{{ $localizedURL }}">{{ .Name }}</a>
+        </li>
+        {{ end }}
+      </ul>
+
+      <div class="lang-switch">
+        {{ if eq .Lang "zh" }}
+          <span class="lang-current">中</span>
+          <span class="lang-sep">|</span>
+          {{- $enPage := .Translations -}}
+          {{- if $enPage -}}
+            <a href="{{ (index $enPage 0).RelPermalink }}" class="lang-link">EN</a>
+          {{- else -}}
+            <a href="/en{{ .RelPermalink }}" class="lang-link">EN</a>
+          {{- end -}}
+        {{ else }}
+          {{- $zhPage := .Translations -}}
+          {{- if $zhPage -}}
+            <a href="{{ (index $zhPage 0).RelPermalink }}" class="lang-link">中</a>
+          {{- else -}}
+            <a href="{{ strings.TrimPrefix "/en" .RelPermalink }}" class="lang-link">中</a>
+          {{- end -}}
+          <span class="lang-sep">|</span>
+          <span class="lang-current">EN</span>
+        {{ end }}
+      </div>
+    </nav>
+  </div>
+</header>

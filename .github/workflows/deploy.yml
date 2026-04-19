@@ -1,0 +1,21 @@
+# Optional: GitHub Actions workflow for Hugo build verification
+# Cloudflare Pages handles deployment automatically via its own build system.
+# This workflow is for CI checks only.
+name: Hugo Build Check
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.147.0'
+          extended: true
+      - name: Build
+        run: hugo --gc --minify
