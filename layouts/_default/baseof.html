@@ -21,7 +21,10 @@
   <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   {{ with .Params.image }}<meta name="twitter:image" content="{{ . | absURL }}">{{ end }}
 
-  <link rel="icon" href="{{ .Site.Params.logo_black }}" type="image/png">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/ui/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/ui/favicon-16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/ui/favicon-180.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet">
