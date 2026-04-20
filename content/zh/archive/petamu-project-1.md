@@ -5,6 +5,7 @@ draft: false
 section: archive
 k2_id: 428
 alias: "petamu-project"
+image: "/images/ui/placeholder-white.png"
 ---
 In the "PETAMU" project, we use the Malay language, which is commonly used in Malaysia and the Indonesian archipelago, as a guide to open an alternative path of viewing maps. In this different map viewing, we will combine the practice of OCAC and NML in Indonesia and Malaysia Peninsula from 2016 to 2017, or through the artists’ residency, interview and artwork, as well as the researchers/curators’ cooperative translation, interview and research, etc. As the different travellers’ viewpoint found on the same map, the diverse result of works and documents were accumulated and recomposed to specific spaces on the map. By revisiting the "window" of different spaces as a reference to the "border" on the map, the viewer can enter and exit different imaginary contexts through the spatial interface. As a result, the original imagination of artists will be re-aggregated under a specific spatial context, and will initiates the agency of map regarding "locality."
 

@@ -5,6 +5,7 @@ draft: false
 section: archive
 k2_id: 423
 alias: "bokeh-north-thailand-and-deep-south"
+image: "/images/ui/placeholder-white.png"
 ---
 【 焦外：清邁與泰國深南的藝術現況 】
 Bokeh: Thai Contemporary Art in Chiang Mai and Deep South
