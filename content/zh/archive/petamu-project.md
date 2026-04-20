@@ -5,7 +5,6 @@ draft: false
 section: archive
 k2_id: 427
 alias: "petamu-project"
-image: "/images/k2/items/cache/d26f2d3a8ff5583681ac68eec63fdc44_XL.jpg"
 ---
 「PETAMU」這個標題取自（印尼文與馬來文的）「你的地圖」（Peta Kamu）的口語用法。在《邊境旅行PETAMU Project》計劃裡，我們試圖以「馬來群島」（Nusantara）的通用語（lingua franca，在此指「馬來語」）為引線，來打開一種觀看東南亞地圖的另類取徑。在這種另類的視野裡，打開-當代藝術工作站與「《數位荒原》駐站暨群島資料庫（Nusantara Archive）」合作，從2016年到2017年之間各自於印尼、馬來西亞半島的實踐歷程，或透過藝術家進駐、訪談、創作，以及與研究員／策展人合作翻譯、訪談、研究等工作，如同在同一張地圖各自發現的不同旅人視野，進而匯聚累積，而將資料庫重新對應至地圖上的特定區塊或邊境。
 

@@ -5,7 +5,6 @@ draft: false
 section: archive
 k2_id: 436
 alias: "alice-shi-wanwan-art-project"
-image: "/images/k2/items/cache/c66733db6fd9c6779ab24f57f69f5201_XL.jpg"
 ---
 Alice is a whale living in the Pacific Ocean. It is said that its sound frequency is different from that of all whales, so it cannot find its own kind and communicate with them, which makes Alice the loneliest whale in the world ––––– Baidu Encyclopedia
 

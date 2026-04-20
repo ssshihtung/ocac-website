@@ -7,10 +7,6 @@ k2_id: 93
 alias: "about"
 ---
 
-{loadposition smartslider-2}
-
-{loadposition smartslider-1}
-
 Open-Contemporary Art Center (OCAC) is an artist-run space founded in Banciao (Taiwan) in 2001. Our tasks include curation, interdisciplinary exchange, art forum, study and publication. We believe that contemporary art permeates into our lives in a wider range than ever. People need a significant clue of “what is contemporary art?” with a full imagination. We look at this and attempt to dedicated ourselves to create diverse forms of which the public interacted with contemporary art.
 
 ## Curation
