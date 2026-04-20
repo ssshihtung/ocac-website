@@ -7,12 +7,7 @@ k2_id: 370
 alias: "thaitai-fever-stage-3-how-to-fix-a-leaky-roof-in-rainy-days"
 image: "/images/k2/items/cache/4effff5398b13b476604d4d8450bedfd_XL.jpg"
 ---
-
 All things are impermanent, carry on decaying and vanishing toward an oblivion and non-existence condition. While we accept and compromise the deterioration, we keep in mind about maintenance, not for a neat appearance but to expand the relationship between human, among scattered forms, and to overcome the conscious mind which was fully engaged.
-
-All things are impermanent, carry on decaying and vanishing toward an oblivion and non-existence condition. While we accept and compromise the deterioration, we keep in mind about maintenance, not for a neat appearance but to expand the relationship between human, among scattered forms, and to overcome the conscious mind which was fully engaged.
-
- 
 
 Through the 6 month interrelated experience that occurred here at the OCAC, within the dimension of space and time, it has built a relationship between each different composition inside itself…
 

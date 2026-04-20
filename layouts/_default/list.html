@@ -4,18 +4,30 @@
     <h1 class="page-title">{{ .Title }}</h1>
   </div>
 
-  {{ with .Params.filters }}
-  <div class="filter-bar">
-    {{ range . }}
-    <a href="#" data-filter="{{ .tag }}">{{ .label }}</a>
+  {{/* Year-based filter bar — auto-generated from content */}}
+  {{ $years := slice }}
+  {{ range .Pages }}
+    {{ if not .Date.IsZero }}
+      {{ $year := .Date.Format "2006" }}
+      {{ if not (in $years $year) }}
+        {{ $years = $years | append $year }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ if gt (len $years) 1 }}
+  <div class="filter-bar" id="filter-bar">
+    <a href="#" class="is-active" data-filter="all">All</a>
+    <span class="filter-sep">|</span>
+    {{ range sort $years "value" "desc" }}
+    <a href="#" data-filter="{{ . }}">{{ . }}</a>
     <span class="filter-sep">|</span>
     {{ end }}
   </div>
   {{ end }}
 
-  <div class="items-grid">
+  <div class="items-grid" id="items-grid">
     {{ range .Pages }}
-    <article class="item-card" {{ with .Params.tags }}data-tags="{{ delimit . "," }}"{{ end }}>
+    <article class="item-card" data-year="{{ .Date.Format "2006" }}" {{ with .Params.tags }}data-tags="{{ delimit . "," }}"{{ end }}>
       <a href="{{ .RelPermalink }}">
         {{ with .Params.image }}
         <div class="item-thumb">
@@ -38,6 +50,10 @@
       </a>
     </article>
     {{ end }}
+  </div>
+
+  <div class="no-results" id="no-results" style="display:none;">
+    {{ if eq .Lang "zh" }}沒有符合條件的項目{{ else }}No items found{{ end }}
   </div>
 
   {{ template "_internal/pagination.html" . }}

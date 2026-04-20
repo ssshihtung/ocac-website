@@ -5,7 +5,7 @@ draft: false
 section: archive
 k2_id: 272
 alias: "exhibition-no-more"
-image: "/images/k2/items/cache/exhibition-no-more_XL.jpg"
+image: "/images/k2/items/cache/98786352ab62965a07c516ba5d449e8a_XL.jpg"
 ---
 
 打開－當代藝術工作站於2011到2013年初，經歷了一段穿梭於泰國-台灣之間的獨特迷航，這不僅是人與人的互動、概念之間的交流與演繹，更試圖對藝術空間的可能性做嶄新的註解。自東南亞歸航後，除了持續進行中的台泰當代藝術交流，打開-當代透過台北市文化局的藝響空間計畫，尋到一處緊鄰小公園、圖書館與傳統市場，位於士林捷運站附近靜巷中的老空間作為駐紮的新基地。

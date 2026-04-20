@@ -7,9 +7,6 @@ k2_id: 336
 alias: "teng-chao-ming-i-was-in-the-arctic"
 image: "/images/k2/items/cache/ee760d1c1474fde7f8f71a96b2452e29_XL.jpg"
 ---
-
-Open Contemporary Art Center is pleased to announce *I Was in the Arctic*, the first solo exhibition in Taiwan by New York-based artist TENG Chao-Ming. Last year TENG was selected to participate in the Arctic Circle, an annual artist residency/expedition, run by New York’s Farm Foundation for the Arts and Sciences. *I Was in the Arctic* shows two new works completed during the trip by TENG.
-
 Open Contemporary Art Center is pleased to announce *I Was in the Arctic*, the first solo exhibition in Taiwan by New York-based artist TENG Chao-Ming. Last year TENG was selected to participate in the Arctic Circle, an annual artist residency/expedition, run by New York’s Farm Foundation for the Arts and Sciences. *I Was in the Arctic* shows two new works completed during the trip by TENG.
 
 Eighteen artists from all over the world gathered at Longyearbyen, Svalbard, and boarded on a 100-year-old schooner, sailing between 77 to 80 degree north for almost three weeks. Faced with the extreme condition and uninhabited land, TENG’s new work once again shows his attitude: art-making as a way to approach, re-read, and de(re-)construct the environment we live in, and the systems and concepts we live by. The artist thinks embarking on this journey felt like responding to a certain aspiration; an aspiration to understand and own the remote and mysterious Arctic. Every participant was physically there to collect experiences and signs to their ownership.

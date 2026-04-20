@@ -5,7 +5,7 @@ draft: false
 section: artspaces
 k2_id: 377
 alias: "run-amok"
-image: "/images/k2/items/cache/run-amok_XL.jpg"
+image: "/images/Run-Amok-exterior01.jpg"
 ---
 
 ![](images/Run-Amok-exterior01.jpg)

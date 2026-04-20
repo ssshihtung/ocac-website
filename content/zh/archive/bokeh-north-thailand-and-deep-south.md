@@ -7,16 +7,6 @@ k2_id: 423
 alias: "bokeh-north-thailand-and-deep-south"
 image: "/images/k2/items/cache/85217272b4e7187cce0880e98f060661_XL.jpg"
 ---
-
-【 焦外：清邁與泰國深南的藝術現況 】
-Bokeh: Thai Contemporary Art in Chiang Mai and Deep South
-
-當談論起泰國，人們腦海裡浮起什麼樣的意象？特別是曼谷，映寫出一清晰而具象的文化場景，並作為我們對於泰國認識的基本模態，但那些落在焦點對象的輪廓之外，位處在散景迷濛中的地域，我們可曾好奇其中存在著什麼樣的人文景緻？又當代的藝術如何在此迥異的歷史文化樣態中去回應當前社會的衝擊、矛盾與遽變？
-
-此次由台北國際藝術村（TAV）與打開－當代藝術工作站（Open- Contemporary Art Center）合辦的「焦外：清邁與泰國深南的藝術現況」座談活動，以焦外（散景）為意象指涉中心之外的觀看途徑，邀請到泰籍策展人Penwadee Nophaket Manont分享近年她對泰國深南（Deep South，指泰國南部北大年、惹拉府、陶公府）此一地區文化與藝術的研究觀察；以及以清邁為據點創辦經營「清邁藝術對話空間」（Chiangmai Art Conversation- CAC）的藝術家Sutthirat Supaparinya分享介紹有關於清邁地區的藝術場景及當地的藝術家自營機構如何激活亞洲藝文網絡。同時，座談亦邀請到多年關注東南亞藝術與文化「數位荒原」主持人鄭文琦和「奧賽德工廠」廠長暨策展人高森信男與講者展開深入對談。
-
-我們誠摯地邀請您，一起穿越景深，進入這段焦外（散景）之處的泰國。
-
 【 焦外：清邁與泰國深南的藝術現況 】
 Bokeh: Thai Contemporary Art in Chiang Mai and Deep South
 

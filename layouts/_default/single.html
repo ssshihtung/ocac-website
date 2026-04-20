@@ -11,13 +11,13 @@
   <div class="article-layout">
     <div class="article-body">
       {{ with .Params.image }}
-      <img src="{{ . }}" alt="{{ $.Title }}" style="margin-bottom: 2em;">
+      <img src="{{ . }}" alt="{{ $.Title }}" class="article-featured-img">
       {{ end }}
 
       {{ .Content }}
 
       {{ with .Params.gallery }}
-      <div class="article-gallery">
+      <div class="article-gallery" data-lightbox="gallery">
         {{ range . }}
         <img src="{{ . }}" alt="" loading="lazy">
         {{ end }}
@@ -31,7 +31,8 @@
         <h3 class="sidebar-title">Tags</h3>
         <div class="sidebar-tags">
           {{ range . }}
-          <a href="#">{{ . }}</a>
+          {{ $tagURL := printf "/tags/%s/" (. | urlize) }}
+          <a href="{{ $tagURL }}">{{ . }}</a>
           {{ end }}
         </div>
       </div>
@@ -41,7 +42,18 @@
       <div class="sidebar-section">
         <h3 class="sidebar-title">Related</h3>
         {{ range . }}
-        <p><a href="{{ .url }}">{{ .title }}</a></p>
+        <p><a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a></p>
+        {{ end }}
+      </div>
+      {{ end }}
+
+      {{/* Auto-related articles by same section */}}
+      {{ $related := first 3 (where (where .Site.RegularPages "Section" .Section) "Permalink" "ne" .Permalink) }}
+      {{ if $related }}
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">{{ if eq .Lang "zh" }}更多{{ else }}More{{ end }}</h3>
+        {{ range $related }}
+        <p style="margin-bottom: 8px;"><a href="{{ .RelPermalink }}" style="font-size: 13px; line-height: 1.5; display: block;">{{ .Title }}</a></p>
         {{ end }}
       </div>
       {{ end }}

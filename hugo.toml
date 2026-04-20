@@ -12,7 +12,7 @@ defaultContentLanguageInSubdir = false
     title = "打開—當代藝術工作站"
     contentDir = "content/zh"
     [languages.zh.params]
-      description = "Open Contemporary Art Center"
+      description = "打開—當代藝術工作站，位於台南的獨立當代藝術空間，致力於國際藝術交流、展覽與駐村計畫。"
   [languages.en]
     languageName = "EN"
     languageCode = "en"
@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = false
     title = "Open Contemporary Art Center"
     contentDir = "content/en"
     [languages.en.params]
-      description = "Open Contemporary Art Center"
+      description = "Open Contemporary Art Center — an independent art space in Tainan, Taiwan dedicated to international contemporary art exchanges, exhibitions, and residency programs."
 
 [params]
   logo_black = "/images/ui/logo-b.png"
@@ -36,8 +36,8 @@ defaultContentLanguageInSubdir = false
     noClasses = false
 
 [outputs]
-  home = ["HTML"]
-  section = ["HTML"]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
 
 [taxonomies]
   tag = "tags"

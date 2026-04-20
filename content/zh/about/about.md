@@ -5,7 +5,6 @@ draft: false
 section: about
 k2_id: 108
 alias: "about"
-image: "/images/k2/items/cache/about_XL.jpg"
 ---
 
 {loadposition smartslider-2}

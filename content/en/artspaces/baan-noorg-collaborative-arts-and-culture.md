@@ -5,7 +5,7 @@ draft: false
 section: artspaces
 k2_id: 395
 alias: "baan-noorg-collaborative-arts-and-culture"
-image: "/images/k2/items/cache/baan-noorg-collaborative-arts-and-culture_XL.jpg"
+image: "/images/20160731-0383.jpg"
 ---
 
 ![](images/20160731-0383.jpg)

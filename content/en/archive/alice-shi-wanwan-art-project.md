@@ -7,20 +7,6 @@ k2_id: 436
 alias: "alice-shi-wanwan-art-project"
 image: "/images/k2/items/cache/c66733db6fd9c6779ab24f57f69f5201_XL.jpg"
 ---
-
-Alice is a whale living in the Pacific Ocean. It is said that its sound frequency is different from that of all whales, so it cannot find its own kind and communicate with them, which makes Alice the loneliest whale in the world ––––– Baidu Encyclopedia
-
-//
-
-Residency: 19th March – 23 th March, 2019
-Exhibition: 24th March – 23 th April, 2019
-
-Sharing and Discussion: 23 th March, 2019. 15:00 – 16:30
-
-Venue：OCAC (Open Contemporary Art Center)
- No.25, Ganzhou St., Datong Dist., Taipei City 103, Taiwan
-Open Hour: Wen. – Sun., 14:00 – 20:00
-
 Alice is a whale living in the Pacific Ocean. It is said that its sound frequency is different from that of all whales, so it cannot find its own kind and communicate with them, which makes Alice the loneliest whale in the world ––––– Baidu Encyclopedia
 
 Shi Wanwan’s practices are basically based on the interactions and negotiations with the audience in the public environment. Including the WangJing Youth completed in Chengdu A4 Art Center in 2013, The Project of Peach Blossom Trees in Changde, Hunan Province in 2017；the project But the Moon Shines on the Ditch completed in Shijiezi Village, Gansu Province in 2018；and the Fragments: Blue-and-White Plate with Pine, Bamboo and Prunus Xuande Reign, Ming Dynasty completed at the Jinji Lake Art Museum in Suzhou in 2018. In addition, the project Alice in Taipei is a project that considers the local environment. Invite community neighbors, uncles, aunts and civic students to participate in the project and draw a picture of Alice the whale with blue and green. Say hello in an artistic way to this "lonely friend" living in the Pacific Ocean!

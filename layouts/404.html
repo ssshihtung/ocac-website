@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div class="error-page">
+  <div class="error-code">404</div>
+  <p class="error-message">
+    {{ if eq .Lang "zh" }}
+      找不到這個頁面。它可能已經被移動或刪除。
+    {{ else }}
+      This page could not be found. It may have been moved or removed.
+    {{ end }}
+  </p>
+  <a href="{{ .Site.Home.RelPermalink }}" class="error-link">
+    {{ if eq .Lang "zh" }}返回首頁{{ else }}Back to Home{{ end }}
+  </a>
+</div>
+{{ end }}

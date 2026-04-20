@@ -61,4 +61,30 @@
   </div>
 </section>
 
+{{/* Art Spaces */}}
+<section class="home-section">
+  <div class="container">
+    <div class="section-header">
+      <h2 class="section-title">Art Spaces</h2>
+      <a href="{{ if eq .Lang "en" }}/en{{ end }}/artspaces/" class="section-more">View All →</a>
+    </div>
+    <div class="items-grid">
+      {{ range first 4 (where .Site.RegularPages "Section" "artspaces") }}
+      <article class="item-card">
+        <a href="{{ .RelPermalink }}">
+          {{ with .Params.image }}
+          <div class="item-thumb">
+            <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+          </div>
+          {{ end }}
+          <div class="item-info">
+            <h3 class="item-title">{{ .Title }}</h3>
+          </div>
+        </a>
+      </article>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
 {{ end }}

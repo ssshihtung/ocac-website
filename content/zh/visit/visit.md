@@ -5,7 +5,6 @@ draft: false
 section: visit
 k2_id: 94
 alias: "visit"
-image: "/images/k2/items/cache/visit_XL.jpg"
 ---
 
 ##

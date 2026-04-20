@@ -7,14 +7,7 @@ k2_id: 407
 alias: "nina-maria-ofoersag"
 image: "/images/k2/items/cache/73c564de315ae81db9aaa50a11f02581_XL.jpg"
 ---
-
 Master of Arts 2013/ University of Helsinki/ MA Programme in Culture and Communication Bachelor of Art 2004/ Novia University of Appiled Sciences/ Media and Design/ Photography 2001/ 02 Manchester Metropolitan University/ Faculty of Art and Design/ Photography.
-
-Born 1975 in Helsinki, lives and works in Helsinki
-
-Master of Arts 2013/ University of Helsinki/ MA Programme in Culture and Communication Bachelor of Art 2004/ Novia University of Appiled Sciences/ Media and Design/ Photography 2001/ 02 Manchester Metropolitan University/ Faculty of Art and Design/ Photography.
-
- 
 
 CURA TORIAL
 2016 Art in Case (producer, curator), (cooperation with AD Sami Saikkonen and Malmi Airport), (cooperation with Petri Kuljuntausta and Mark Nixon), (cooperation with Joakim Forgren and Mikael Goralski), Malmi Airport, Helsinki.
