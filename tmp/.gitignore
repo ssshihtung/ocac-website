@@ -1,0 +1,4 @@
+# keep scripts, ignore raw/intermediate artefacts
+raw/
+*.html
+*.txt

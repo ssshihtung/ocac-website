@@ -1,0 +1,56 @@
+---
+title: "空白頁 Materiality of Blank Pages"
+date: "2024-12-31T00:00:00+08:00"
+draft: false
+section: "archive"
+image: "/images/reports/2024/p027-i00-d0ed91289337.jpeg"
+tags: ["2024"]
+
+---
+**Event (auto-generated stub; English description pending):**
+
+- Year: 2024
+- Source: OCAC 2024 annual closing report (page 27)
+
+### Original Chinese text
+
+主辦|莊馨怡、林友達
+
+合作與場地|打開-當代藝術工作站
+
+時間與地點|11/9 打開-當代藝術工作站
+
+活動性質|座談
+
+本活動為兩位創作者於2021年所執行的-「重啟 - 物質性 (Re-materiality)」創作研究計畫之
+
+延伸,並在2022年的《仍然/依舊:沒有場所的場所》(Mê/me : lieux sans lieux)展覽中,擴展
+
+對於「如實」(même)的思考,在作品中加入一條「/」斜槓,以「如/實」(mê/me)的形式呈現。
+
+今年(2024)九月,花蓮松園別館暫時歇業,成為太平洋詩歌節的一頁空白。如同在這片土地
+
+上生活的詩人們,兩位創作者也在去年(2023)以《位差》(Le déphasage)一展,探索了創作
+
+中的「前-個體」狀態,讓自身滯留在自然所敞開的無解義含裡。法國新浪潮導演尚・呂克・高達
+
+(Jean-Luc 
+Godard)曾說:「那些被呈現者往無法被說出。」在閱讀時,偶然地翻到一頁空
+
+白頁,我們似乎不用去理解這是一張無內容頁面,就可以知道它是空白頁。空白頁與生俱來
+
+的不可(被)說性格,也許就是詩的背景。本次慢談會聚焦在留白的、片刻的無介
+
+(immédiateté)性格上,歡迎聽眾一起來在感知、感覺、感受之前的如/實之中探索。
+
+創作研究慢談會
+
+### Image record
+
+![](/images/reports/2024/p027-i00-d0ed91289337.jpeg)
+
+
+---
+
+*Auto-generated from OCAC’s 2024 annual closing report; English translation and image matching pending.*
+
