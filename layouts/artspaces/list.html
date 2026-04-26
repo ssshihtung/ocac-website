@@ -1,0 +1,36 @@
+{{ define "main" }}
+<div class="section-page">
+  <div class="page-header">
+    <h1 class="page-title">{{ .Title }}</h1>
+  </div>
+
+  {{ $colors := slice "#003882" "#1f4e3d" "#4e2031" "#2d1f4e" "#4e3d1f" "#1f3d4e" "#3d1f4e" }}
+
+  <div class="items-grid">
+    {{ range .Paginator.Pages }}
+    {{ $idx := default 0 ($.Scratch.Get "i") }}
+    {{ $color := index $colors (mod $idx (len $colors)) }}
+    {{ $.Scratch.Add "i" 1 }}
+    <article class="item-card card-md">
+      <a href="{{ .RelPermalink }}">
+        {{ if .Params.image }}
+        <div class="item-thumb">
+          <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
+        </div>
+        {{ else }}
+        <div class="item-thumb item-thumb--color" style="background-color:{{ $color }};"></div>
+        {{ end }}
+        <div class="item-info">
+          <h3 class="item-title">{{ .Title }}</h3>
+          {{ with .Params.subtitle }}
+          <div class="item-date">{{ . }}</div>
+          {{ end }}
+        </div>
+      </a>
+    </article>
+    {{ end }}
+  </div>
+
+  {{ template "_internal/pagination.html" . }}
+</div>
+{{ end }}

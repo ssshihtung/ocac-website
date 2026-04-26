@@ -32,13 +32,13 @@
   <div class="items-grid" id="items-grid">
     {{ range .Paginator.Pages }}
     {{/* Repeating block of 5: lg, md, sm, sm, sm */}}
-    {{ $pos   := mod $i 5 }}
-    {{ $size  := "sm" }}
-    {{ if eq $pos 0 }}{{ $size = "lg" }}{{ end }}
-    {{ if eq $pos 1 }}{{ $size = "md" }}{{ end }}
+    {{ $pos       := mod $i 5 }}
+    {{ $sizeClass := "card-sm" }}
+    {{ if eq $pos 0 }}{{ $sizeClass = "card-md card-md--landscape" }}{{ end }}
+    {{ if eq $pos 1 }}{{ $sizeClass = "card-md card-md--portrait" }}{{ end }}
     {{ $color := index $colors (mod $i (len $colors)) }}
 
-    <article class="item-card card-{{ $size }}" data-year="{{ .Date.Format "2006" }}" {{ with .Params.tags }}data-tags="{{ delimit . "," }}"{{ end }}>
+    <article class="item-card {{ $sizeClass }}" data-year="{{ .Date.Format "2006" }}" {{ with .Params.tags }}data-tags="{{ delimit . "," }}"{{ end }}>
       <a href="{{ .RelPermalink }}">
         {{ if .Params.image }}
         <div class="item-thumb">

@@ -13,12 +13,12 @@
     {{ $i := 0 }}
     <div class="items-grid">
       {{ range $archivePages }}
-      {{ $pos  := mod $i 5 }}
-      {{ $size := "sm" }}
-      {{ if eq $pos 0 }}{{ $size = "lg" }}{{ end }}
-      {{ if eq $pos 1 }}{{ $size = "md" }}{{ end }}
+      {{ $pos       := mod $i 5 }}
+      {{ $sizeClass := "card-sm" }}
+      {{ if eq $pos 0 }}{{ $sizeClass = "card-md card-md--landscape" }}{{ end }}
+      {{ if eq $pos 1 }}{{ $sizeClass = "card-md card-md--portrait" }}{{ end }}
       {{ $color := index $colors (mod $i (len $colors)) }}
-      <article class="item-card card-{{ $size }}">
+      <article class="item-card {{ $sizeClass }}">
         <a href="{{ .RelPermalink }}">
           {{ if .Params.image }}
           <div class="item-thumb">
