@@ -282,13 +282,11 @@ img { max-width: 100%; height: auto; display: block; }
 .section-more:hover { color: var(--color-text); opacity: 1; }
 
 /* ==========================================================================
-   Grid — 3-col CSS grid, row-major order (1 2 3 / 4 5 6)
+   Grid — CSS columns masonry, equal gaps all sides
    ========================================================================== */
 .items-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: var(--grid-gap);
-  align-items: start;
+  columns: 3;
+  column-gap: var(--grid-gap);
 }
 
 /* ==========================================================================
@@ -298,6 +296,8 @@ img { max-width: 100%; height: auto; display: block; }
   background: var(--color-surface);
   border-radius: var(--card-radius);
   overflow: hidden;
+  break-inside: avoid;
+  margin-bottom: var(--grid-gap);
   transition: transform var(--dur) var(--ease), box-shadow var(--dur) var(--ease);
 }
 
@@ -818,7 +818,7 @@ img { max-width: 100%; height: auto; display: block; }
    Tablet 641–1100px
    ========================================================================== */
 @media (min-width: 641px) and (max-width: 1100px) {
-  .items-grid { grid-template-columns: repeat(2, 1fr); }
+  .items-grid { columns: 2; }
   .article-layout { grid-template-columns: 1fr 200px; gap: var(--space-8); }
 }
 
@@ -890,7 +890,7 @@ img { max-width: 100%; height: auto; display: block; }
   #content { padding: var(--space-5) 16px var(--space-12); }
   .site-footer { padding: var(--space-6) 16px; }
 
-  .items-grid { grid-template-columns: repeat(2, 1fr); }
+  .items-grid { columns: 2; }
   .item-card.card-sm > a { flex-direction: column; }
   .item-card.card-sm .item-thumb { flex: none; width: 100%; aspect-ratio: 4 / 3; align-self: auto; }
   .item-card.card-sm .item-info { flex: none; }

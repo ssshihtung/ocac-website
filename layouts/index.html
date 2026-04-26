@@ -13,10 +13,10 @@
     {{ $i := 0 }}
     <div class="items-grid">
       {{ range $archivePages }}
-      {{ $pos       := mod $i 5 }}
+      {{ $pos       := mod $i 7 }}
       {{ $sizeClass := "card-md card-md--portrait" }}
-      {{ if or (eq $pos 0) (eq $pos 2) }}{{ $sizeClass = "card-md card-md--landscape" }}{{ end }}
-      {{ if eq $pos 4 }}{{ $sizeClass = "card-sm" }}{{ end }}
+      {{ if or (eq $pos 0) (eq $pos 4) }}{{ $sizeClass = "card-md card-md--landscape" }}{{ end }}
+      {{ if or (eq $pos 3) (eq $pos 6) }}{{ $sizeClass = "card-sm" }}{{ end }}
       {{ $color := index $colors (mod $i (len $colors)) }}
       <article class="item-card {{ $sizeClass }}">
         <a href="{{ .RelPermalink }}">

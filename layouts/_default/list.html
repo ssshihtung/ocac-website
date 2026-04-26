@@ -31,11 +31,11 @@
   {{ $i := 0 }}
   <div class="items-grid" id="items-grid">
     {{ range .Paginator.Pages }}
-    {{/* Repeating block of 5: land → port → land → port → sm */}}
-    {{ $pos       := mod $i 5 }}
+    {{/* Repeating block of 7: land→port→port→sm→land→port→sm (71% md, 29% sm) */}}
+    {{ $pos       := mod $i 7 }}
     {{ $sizeClass := "card-md card-md--portrait" }}
-    {{ if or (eq $pos 0) (eq $pos 2) }}{{ $sizeClass = "card-md card-md--landscape" }}{{ end }}
-    {{ if eq $pos 4 }}{{ $sizeClass = "card-sm" }}{{ end }}
+    {{ if or (eq $pos 0) (eq $pos 4) }}{{ $sizeClass = "card-md card-md--landscape" }}{{ end }}
+    {{ if or (eq $pos 3) (eq $pos 6) }}{{ $sizeClass = "card-sm" }}{{ end }}
     {{ $color := index $colors (mod $i (len $colors)) }}
 
     <article class="item-card {{ $sizeClass }}" data-year="{{ .Date.Format "2006" }}" {{ with .Params.tags }}data-tags="{{ delimit . "," }}"{{ end }}>
