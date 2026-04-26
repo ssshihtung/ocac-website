@@ -2,6 +2,7 @@
 title: "▼Trans/Voices 藝術進駐計畫發表 ▲ Deden J. Bulqini｜空間之間-過渡地帶與臨時狀態▼"
 date: 2019-06-15T11:19:30+08:00
 draft: false
+tags: ["2019"]
 section: archive
 k2_id: 438
 alias: "trans-voices-deden-j-bulqini"

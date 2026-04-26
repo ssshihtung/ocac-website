@@ -2,6 +2,7 @@
 title: "邊境旅行 PETAMU Project"
 date: 2018-08-30T07:01:35+08:00
 draft: false
+tags: ["2018"]
 section: archive
 k2_id: 427
 alias: "petamu-project"

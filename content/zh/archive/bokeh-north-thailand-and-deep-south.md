@@ -2,6 +2,7 @@
 title: "焦外:清邁與泰國深南的藝術現況 Bokeh: North Thailand and Deep South"
 date: 2018-04-27T10:17:54+08:00
 draft: false
+tags: ["2018"]
 section: archive
 k2_id: 423
 alias: "bokeh-north-thailand-and-deep-south"
