@@ -15,13 +15,15 @@
     <nav class="site-nav" id="site-nav">
       <ul class="nav-list">
         {{ $currentPage := . }}
+        {{ $currentURL := $currentPage.RelPermalink }}
         {{ range .Site.Menus.main }}
-        <li class="nav-item{{ if $currentPage.HasMenuCurrent "main" . }} is-active{{ end }}">
-          {{- $localizedURL := .URL -}}
-          {{- if eq $currentPage.Lang "en" -}}
-            {{- $localizedURL = printf "/en%s" .URL -}}
-          {{- end -}}
-          <a href="{{ $localizedURL }}">{{ .Name }}</a>
+        {{- $menuURL := .URL -}}
+        {{- if eq $currentPage.Lang "en" -}}
+          {{- $menuURL = printf "/en%s" .URL -}}
+        {{- end -}}
+        {{- $isActive := and (ne $menuURL "/") (strings.HasPrefix $currentURL $menuURL) -}}
+        <li class="nav-item{{ if $isActive }} is-active{{ end }}">
+          <a href="{{ $menuURL }}">{{ .Name }}</a>
         </li>
         {{ end }}
       </ul>
