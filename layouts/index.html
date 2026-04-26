@@ -38,7 +38,10 @@
             <div class="item-intro">{{ . }}</div>
             {{ else }}
             {{ with .Plain }}
-            <p class="item-excerpt">{{ . | truncate 90 "…" }}</p>
+            {{ $firstPara := index (split . "\n\n") 0 }}
+            {{ with $firstPara }}
+            <p class="item-excerpt">{{ . | truncate 120 "…" }}</p>
+            {{ end }}
             {{ end }}
             {{ end }}
           </div>

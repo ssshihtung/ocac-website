@@ -46,9 +46,9 @@
   --overlay-strong:  rgba(0, 0, 0, 0.92);
 
   /* ---------- Typography ---------- */
-  --font-display: 'Montserrat', 'Noto Sans TC', 'PingFang TC', Arial, sans-serif;
-  --font-body:    'Montserrat', 'Noto Sans TC', 'PingFang TC', Arial, sans-serif;
-  --font-en:      'Montserrat', Arial, Helvetica, sans-serif;
+  --font-display: 'TASA Orbiter Display', 'Noto Sans TC', 'PingFang TC', Arial, sans-serif;
+  --font-body:    'TASA Orbiter Text', 'Noto Sans TC', 'PingFang TC', Arial, sans-serif;
+  --font-en:      'TASA Orbiter Display', Arial, Helvetica, sans-serif;
   --font-mono:    'SF Mono', 'Menlo', monospace;
 
   /* Type scale */
@@ -354,16 +354,9 @@ img { max-width: 100%; height: auto; display: block; }
   font-weight: 600;
 }
 
-/* Medium landscape modifier: spans 2 columns, 16:9 thumb */
-.item-card.card-md--landscape {
-  grid-column: span 2;
-}
+/* Medium landscape modifier: 1 column, 16:9 thumb */
 .item-card.card-md--landscape .item-thumb {
   aspect-ratio: 16 / 9;
-}
-.item-card.card-md--landscape .item-title {
-  font-size: var(--fs-h2);
-  font-weight: 600;
 }
 
 /* Medium portrait modifier: 1 column, 3:4 thumb */
@@ -371,17 +364,17 @@ img { max-width: 100%; height: auto; display: block; }
   aspect-ratio: 3 / 4;
 }
 
-/* Small: horizontal — image:text = 1.3 : 0.7 */
+/* Small: horizontal — square image left, text right */
 .item-card.card-sm > a {
   flex-direction: row;
   align-items: stretch;
 }
 .item-card.card-sm .item-thumb {
-  flex: 1.3;
-  min-width: 0;
+  flex: 0 0 110px;
+  aspect-ratio: 1;
 }
 .item-card.card-sm .item-info {
-  flex: 0.7;
+  flex: 1;
   padding: var(--space-3) var(--space-4);
 }
 .item-card.card-sm .item-title {
@@ -830,10 +823,8 @@ img { max-width: 100%; height: auto; display: block; }
 @media (min-width: 641px) and (max-width: 1100px) {
   :root { --sidebar-w: 180px; }
   .items-grid { grid-template-columns: repeat(2, 1fr); }
-  .item-card.card-md--landscape { grid-column: span 2; }
-  .item-card.card-sm > a { flex-direction: column; }
-  .item-card.card-sm .item-thumb { flex: none; width: 100%; aspect-ratio: 16 / 9; }
-  .item-card.card-sm .item-info { flex: none; }
+  .item-card.card-sm .item-thumb { flex: 0 0 90px; aspect-ratio: 1; }
+  .article-layout { grid-template-columns: 1fr 200px; gap: var(--space-8); }
   .article-layout { grid-template-columns: 1fr 200px; gap: var(--space-8); }
 }
 
@@ -919,10 +910,9 @@ img { max-width: 100%; height: auto; display: block; }
   #content { margin-left: 0; padding: var(--space-5) 16px var(--space-12); }
   .site-footer { margin-left: 0; padding: var(--space-6) 16px; }
 
-  .items-grid { grid-template-columns: 1fr; }
-  .item-card.card-md--landscape { grid-column: span 1; }
+  .items-grid { grid-template-columns: repeat(2, 1fr); }
   .item-card.card-sm > a { flex-direction: column; }
-  .item-card.card-sm .item-thumb { flex: none; width: 100%; aspect-ratio: 16 / 9; }
+  .item-card.card-sm .item-thumb { flex: none; width: 100%; aspect-ratio: 4 / 3; }
   .item-card.card-sm .item-info { flex: none; }
   .article-layout { grid-template-columns: 1fr; gap: 0; }
   .article-sidebar { border-top: 1px solid var(--color-border); padding-top: var(--space-6); margin-top: var(--space-6); }

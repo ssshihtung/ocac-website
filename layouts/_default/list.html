@@ -31,7 +31,7 @@
   {{ $i := 0 }}
   <div class="items-grid" id="items-grid">
     {{ range .Paginator.Pages }}
-    {{/* Repeating block of 5: lg, md, sm, sm, sm */}}
+    {{/* Repeating block of 5: landscape, portrait, sm, sm, sm */}}
     {{ $pos       := mod $i 5 }}
     {{ $sizeClass := "card-sm" }}
     {{ if eq $pos 0 }}{{ $sizeClass = "card-md card-md--landscape" }}{{ end }}
@@ -60,7 +60,10 @@
           <div class="item-intro">{{ . }}</div>
           {{ else }}
           {{ with .Plain }}
-          <p class="item-excerpt">{{ . | truncate 90 "…" }}</p>
+          {{ $firstPara := index (split . "\n\n") 0 }}
+          {{ with $firstPara }}
+          <p class="item-excerpt">{{ . | truncate 120 "…" }}</p>
+          {{ end }}
           {{ end }}
           {{ end }}
         </div>
